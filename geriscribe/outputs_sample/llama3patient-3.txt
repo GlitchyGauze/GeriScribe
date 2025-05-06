@@ -1,0 +1,71 @@
+{"notes": "Bob Smith
+67 year old male
+former Army Veteran
+Currently retired
+has CAD s/p stents
+has peripheral artery disease
+continues to experience claudication
+Doppler of lower extremities shows worsening ABI
+will start on cilastazol and refer to cardiology
+dr. steppenwolf is his cardiology, advised to followup
+lives at home with wife and 2 kids
+former smoker
+former alcohol use
+used to have lung cancer but cured with immunotherapy
+has no other complaints at this time
+has no recent falls
+what matters most to him is family
+has polypharmacy
+negative for dementia
+GDS 8/15, concerning for refractory depression, refer to psych, will start on SSRI", "text": "Here is the completed template:
+
+**Geriatric Consultation Note**
+
+**Patient Name:** Bob Smith
+
+**Date of Birth:** ***NEEDS TO BE COLLECTED***
+
+**Chief Complaint:** Claudication due to peripheral artery disease
+
+**History of Presenting Illness:** Patient has been experiencing worsening claudication despite treatment. Recent Doppler study shows a worsening ankle-brachial index (ABI) prompting the need for further evaluation and management.
+
+**Personal Medical History:**
+
+* CAD s/p stents
+* Peripheral artery disease
+* Lung cancer, cured with immunotherapy
+
+**Surgical History:** None reported
+
+**Social History:**
+
+* Former Army Veteran
+* Currently retired
+* Lives at home with wife and 2 kids
+* Former smoker
+* Former alcohol use
+
+**Family History:** ***NEEDS TO BE COLLECTED***
+
+**COMPREHENSIVE GERIATRIC ASSESSMENT:**
+
+**Matters Most:** Family is what matters most to the patient.
+
+**Mobility:** No recent falls reported. Worsening claudication may impact mobility in the future.
+
+**Medications:** Patient has polypharmacy.
+
+**Mind:**
+
+* Geriatric Depression Scale (GDS): 8/15, concerning for refractory depression.
+* SLUMS Test: ***NEEDS TO BE COLLECTED***
+
+**Multicomplexity:** Summary of what makes treatment of patient challenging: complex medical history, including CAD and peripheral artery disease, as well as a history of lung cancer. The patient's polypharmacy and risk of falls due to worsening claudication also present challenges.
+
+**ASSESSMENT AND PLAN:**
+
+* Start patient on cilastazol.
+* Refer patient to cardiology (Dr. Steppenwolf) for further evaluation and management of peripheral artery disease.
+* Follow up with patient as advised by Dr. Steppenwolf.
+* Refer patient to psychology for further evaluation and treatment of refractory depression.
+* Start patient on SSRI for depressive symptoms."}

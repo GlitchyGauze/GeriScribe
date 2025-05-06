@@ -1,0 +1,38 @@
+content="**HPI:**
+
+Mrs. Alice Wonderland, an 84-year-old female, presents to the emergency department with a recent onset of headache. She reports that she has been getting worse over the past few days and had a recent fall approximately 3 days ago prior to the onset of her symptoms.
+
+Medical History:
+
+* Diabetes
+* Multiple falls in the past
+
+Social History:
+
+* No history of smoking or tobacco use
+
+Family History:
+
+Not provided
+
+Medications:
+
+Mrs. Wonderland is currently taking metformin for her diabetes, but the patient does not recall the exact dosage or frequency. ***NEEDS TO BE VERIFIED***
+
+COMPREHENSIVE GERIATRICS ASSESSMENT
+
+MATTERS MOST: The most concerning aspect of Mrs. Wonderland's presentation appears to be her recent fall and subsequent worsening symptoms, which may indicate an underlying neurological issue.
+
+MEDICATIONS:
+Mrs. Wonderland is taking metformin for diabetes. Considering her age and potential polypharmacy, it is crucial to review and adjust her medication regimen to minimize the risk of adverse effects. ***NEEDS TO BE REVIEWED AND ADJUSTED***
+
+MIND: Mrs. Wonderland's GDS score is 15/15, indicating severe depression. This score suggests that she may be experiencing significant depressive symptoms, which could impact her recovery and care. ***NEEDS TO BE ADDRESSED***
+
+
+MOBILITY:
+Mrs. Wonderland had a recent fall approximately 3 days ago, which raises concerns about her mobility and balance. She uses an assistive device for walking due to decreased strength and endurance in her lower extremities. ***NEEDS TO BE REVIEWED AND INCREASED IF NECESSARY***
+
+MULTICOMPLEXITY: Mrs. Wonderland's medical conditions, including diabetes and recent falls, indicate a moderate level of complexity in her care. However, the presence of severe depression adds an additional layer of complexity to her care. ***NEEDS TO BE ADDRESSED***
+ 
+To better assess Mrs. Wonderland's condition, further information is needed:
+***NEEDS TO BE COLLECTED***" additional_kwargs={} response_metadata={'model': 'llama3.2', 'created_at': '2025-05-06T00:37:01.401323Z', 'done': True, 'done_reason': 'stop', 'total_duration': 10397743666, 'load_duration': 39023208, 'prompt_eval_count': 439, 'prompt_eval_duration': 913746292, 'eval_count': 425, 'eval_duration': 9444099416, 'message': Message(role='assistant', content='', images=None, tool_calls=None)} id='run--0655948d-e48a-4d42-b304-8aab290c5ad2-0' usage_metadata={'input_tokens': 439, 'output_tokens': 425, 'total_tokens': 864}

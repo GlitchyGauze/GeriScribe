@@ -1,0 +1,66 @@
+{"notes": "Dennis Stockton
+95 year old male
+chronic hip pain
+osteoarthritis
+multiple falls resulting in hospitalizations
+needs medication refills
+on multiple pain medications
+never seen or evaluted by pain clinic
+requesting refills
+currently on tramadol, recommend discontinuing especially since   patient is on SSRI increasing risk of serotonin syndrome
+uses wheelchair, not interested in PT
+reviewing PDMP shows multiple refills from multiple prescribers
+advised to establish care with pain clinic
+will not refill at this time
+discussed need for better pain control
+GDS normal
+SLUMS normal", "text": "Here is the completed Geriatric consultation note:
+
+Patient Name: Dennis Stockton
+Date of Birth: ***NEEDS TO BE COLLECTED***
+
+Chief Complaint: Chronic hip pain
+
+History of Presenting Illness:
+Dennis presents with chronic hip pain, attributed to osteoarthritis. He has experienced multiple falls resulting in hospitalizations.
+
+Personal Medical History:
+None provided
+
+Surgical History:
+***NEEDS TO BE COLLECTED***
+
+Social History:
+None provided
+
+Family History:
+None provided
+
+COMPREHENSIVE GERIATRIC ASSESSMENT:
+Matters Most: Patient's ability to safely manage pain and prevent further falls is of utmost importance.
+
+Mobility:
+History of Falls: Yes, multiple hospitalizations due to falls
+ Wheelchair use: Confirmed, not interested in physical therapy (PT)
+
+Medications:
+Does patient have polypharmacy? Yes, on multiple pain medications
+Tramadol: Currently prescribed, recommend discontinuing especially since patient is on SSRI, increasing risk of serotonin syndrome
+SLUMS Test: Normal
+GDS (Geriatric Depression Scale): Normal
+
+Multicomplexity:
+Summary of what makes treatment of patient challenging: Patient's history of falls and multiple hospitalizations highlight the need for comprehensive care coordination. Establishing a relationship with a pain clinic is crucial, but patient's reluctance to participate in PT is a concern.
+
+ASSESSMENT AND PLAN:
+
+Recommendations:
+- Discontinue tramadol due to SSRI use and risk of serotonin syndrome
+- Recommend alternative pain management strategies
+- Advise establishment of care with a pain clinic
+- Discuss need for better pain control and fall prevention measures
+
+Next Steps:
+Will not refill medications at this time, but will schedule follow-up appointment to review progress.
+
+Signature: [Insert signature]"}

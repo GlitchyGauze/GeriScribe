@@ -1,0 +1,59 @@
+{"notes": "Clarice Hamilton
+77 year old female
+retired nurse
+has COPD, Asthma, Recurrent Pneumonia, Seasonal Allergies
+Has mixed dementia - vascular and parkinson
+continue levadopa carbidopa
+has multiple falls within the last year
+continues to smoke
+GDS 10/15
+SLUMS was poor
+no acute changes, so no delirium
+I would recommend hospice and palliative care at this point especially due to falls
+He also said he has new onset heartburn, will trial on PPI and refer to GI for further evaluation", "text": "Patient Name: Clarice Hamilton
+
+Date of Birth: Not provided
+
+Chief Complaint: ***NEEDS TO BE COLLECTED***
+
+History of Presenting Illness:
+Clarice Hamilton presents with mixed dementia (vascular and Parkinson's), COPD, asthma, recurrent pneumonia, seasonal allergies, polypharmacy, multiple falls within the past year, and new onset heartburn.
+
+Personal Medical History:
+Has COPD, Asthma, Recurrent Pneumonia, Seasonal Allergies
+
+Surgical History: Not provided
+
+Social History:
+Retired nurse, continued smoking, which needs further investigation or cessation support as it may exacerbate her conditions.
+
+Family History: Not provided
+
+COMPREHENSIVE GERIATRIC ASSESSMENT:
+
+Matters Most:
+Clarice's concern about falls and her worsening mobility are paramount. She desires to maintain her independence while managing chronic conditions effectively.
+
+Mobility:
+History of multiple falls indicates a need for fall risk assessment, gait evaluation, and potential intervention such as physical therapy or home modifications.
+
+Medications:
+Polypharmacy is noted, suggesting the importance of medication review by a healthcare professional to ensure optimal management without increasing adverse effects.
+
+Mind:
+Geriatric Depression Scale score was 10/15 indicating mild depression. SLUMS Test performance was poor, which points towards cognitive impairment that needs further evaluation and intervention as needed.
+
+Multicomplexity:
+Chronic conditions like COPD, asthma, recurrent pneumonia, seasonal allergies, dementia, and polypharmacy make comprehensive care challenging, requiring a multidisciplinary approach to manage acute and chronic issues effectively.
+
+ASSESSMENT AND PLAN:
+
+Based on the assessment, Clarice Hamilton requires immediate referral for hospice and palliative care due to her falls and potential worsening of mobility. The new onset heartburn warrants an evaluation by a gastroenterologist while continuing the current treatment plan of levodopa carbidopa for Parkinson's disease.
+
+Recommendations include:
+1. Fall risk management: Immediate interventions like physical therapy, home modifications, or assistive devices.
+2. Comprehensive medication review to optimize therapy without increasing side effects or risks.
+3. Mental health support due to mild depression and cognitive impairment.
+4. Smoking cessation program as part of her respiratory management plan.
+
+It is essential to schedule follow-up appointments for further assessments on mobility, cognition, and new symptoms like heartburn to adjust the treatment plan accordingly."}

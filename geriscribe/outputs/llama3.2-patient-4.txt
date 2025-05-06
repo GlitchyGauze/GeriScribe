@@ -1,0 +1,64 @@
+content="**HPI**
+
+Patient Name: Clarice Hamilton
+Date of Birth: Not provided
+Age: 77 years old
+Sex: Female
+Presenting Complaint: None specified, but mentions multiple falls within the last year and new onset heartburn.
+
+Medical History:
+
+* COPD (Chronic Obstructive Pulmonary Disease)
+\t+ Symptoms: Shortness of breath, wheezing
+\t+ Medications: Not specified
+\t+ Frequency of exacerbations: Recurrent
+* Asthma
+\t+ Symptoms: Wheezing, cough
+\t+ Medications: Not specified
+\t+ Frequency of exacerbations: Recurrent
+* Recurrent Pneumonia
+\t+ Previous hospitalizations: Not specified
+\t+ Current symptoms: Not specified
+* Seasonal Allergies
+\t+ Symptoms: Sneezing, runny nose
+\t+ Medications: Not specified
+\t+ Frequency of episodes: Seasonal
+* Mixed dementia (vascular and parkinson)
+\t+ Symptoms: Cognitive decline, memory loss
+\t+ Medications: Levadopa carbidopa
+\t+ Current status: Stable
+* New onset heartburn
+
+Social History:
+
+* Occupation: Retired nurse
+* Living situation: Not specified
+
+Family History:
+
+* Not provided
+
+**COMPREHENSIVE GERIATRICS ASSESSMENT**
+
+MATTERS MOST: Clarice's multiple falls within the last year, which may indicate a need for further assessment and intervention to prevent future falls.
+
+MEDICATIONS: Levadopa carbidopa continues for mixed dementia. New onset heartburn to be managed with trial of PPI (Proton Pump Inhibitor) medication.
+
+MIND: Clarice scores 10/15 on the GDS, indicating mild depression. SLUMS was poor, but no acute changes suggest no delirium at this time. Further assessment of cognitive function is needed to monitor for progression or worsening.
+
+MOBILITY: Clarice has experienced multiple falls within the last year, which may indicate a need for further assessment and intervention to prevent future falls. She uses assistive devices for walking (not specified). The patient continues to smoke, which is a risk factor for cardiovascular disease and exacerbates COPD symptoms.
+
+MULTICOMPLEXITY: Clarice's medical conditions are complex due to the presence of multiple chronic diseases (COPD, Asthma, Recurrent Pneumonia, Seasonal Allergies), mixed dementia, and new onset heartburn. Socioeconomic challenges may affect her care, as not specified.
+
+**Additional Notes**
+
+* Recommend hospice and palliative care to address Clarice's complex medical needs and quality of life.
+* Refer the patient to a GI specialist for further evaluation and management of new onset heartburn.
+* Further assessment is needed to monitor cognitive function, prevent future falls, and optimize management of chronic diseases.
+
+**Recommendations**
+
+* Assess and manage fall risk with further evaluation of mobility and use of assistive devices.
+* Monitor cardiovascular disease risk factors, including smoking cessation.
+* Optimize management of mixed dementia with regular cognitive assessments and medication adjustments as needed.
+* Implement a comprehensive care plan addressing Clarice's multiple conditions and needs." additional_kwargs={} response_metadata={'model': 'llama3.2', 'created_at': '2025-05-06T00:37:45.909177Z', 'done': True, 'done_reason': 'stop', 'total_duration': 15005512375, 'load_duration': 18377209, 'prompt_eval_count': 495, 'prompt_eval_duration': 343705417, 'eval_count': 647, 'eval_duration': 14642756458, 'message': Message(role='assistant', content='', images=None, tool_calls=None)} id='run--5766b3f1-b568-41ff-a747-c1ee4c2e1e96-0' usage_metadata={'input_tokens': 495, 'output_tokens': 647, 'total_tokens': 1142}

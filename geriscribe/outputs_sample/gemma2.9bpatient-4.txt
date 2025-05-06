@@ -1,0 +1,52 @@
+{"notes": "Clarice Hamilton
+77 year old female
+retired nurse
+has COPD, Asthma, Recurrent Pneumonia, Seasonal Allergies
+Has mixed dementia - vascular and parkinson
+continue levadopa carbidopa
+has multiple falls within the last year
+continues to smoke
+GDS 10/15
+SLUMS was poor
+no acute changes, so no delirium
+I would recommend hospice and palliative care at this point especially due to falls
+He also said he has new onset heartburn, will trial on PPI and refer to GI for further evaluation", "text": "## Geriatric Consultation Note
+
+**Patient Name:** Clarice Hamilton
+**Date of Birth:** ***NEEDS TO BE COLLECTED***
+
+**Chief Complaint:**  Falls within the last year, new onset heartburn.
+
+**History of Presenting Illness:** 77-year-old female retired nurse presenting with recurrent falls over the past year and new onset heartburn.  Patient has a history of COPD, asthma, recurrent pneumonia, and seasonal allergies. She also has mixed dementia - vascular and Parkinsonian, and continues levodopa carbidopa.  
+
+**Personal Medical History:**
+* COPD 
+* Asthma
+* Recurrent Pneumonia
+* Seasonal Allergies
+* Mixed Dementia (Vascular and Parkinsonian)
+
+**Surgical History:** ***NEEDS TO BE COLLECTED***
+**Social History:** Retired nurse, current smoker.  ***Needs to be collected: Living situation, support system, hobbies, occupation.***
+**Family History:** ***NEEDS TO BE COLLECTED***
+
+
+**COMPREHENSIVE GERIATRIC ASSESSMENT:**
+
+**Matters Most:** Clarice's concerns regarding falls and new heartburn symptoms. She would like to remain independent in her living situation as much as possible. 
+**Mobility:**  History of multiple falls within the last year. Difficulty with mobility likely contributing to falls.
+**Medications:** Patient has polypharmacy, taking levodopa carbidopa for dementia. ***Needs to be collected: Full medication list.***
+**Mind:** Geriatric Depression Scale: 10/15, indicating possible depression. SLUMS Test: Poor result. No acute changes noted, ruling out delirium.
+**Multicomplexity:** Patient presents with multi-faceted challenges including falls risk due to mobility issues and dementia, polypharmacy, potential for depression, and new onset heartburn requiring further evaluation.  This complexity requires a coordinated care plan addressing all aspects of her health.
+
+**ASSESSMENT AND PLAN:**
+
+* Recommend hospice and palliative care given the patient's advanced dementia, history of falls, and overall prognosis.
+* Trial a proton pump inhibitor (PPI) for new-onset heartburn and refer to gastroenterology for further evaluation.
+* Thorough medication review and potential deprescribing to address polypharmacy concerns.
+* Fall risk assessment and implementation of fall prevention strategies in the home environment. 
+* Social work referral to assess support system and explore resources for assistance with daily living activities.
+
+
+This consultation note emphasizes the importance of a comprehensive geriatric assessment to address the complex needs of Clarice Hamilton.  Further investigation into her specific concerns and overall health status is crucial for developing an appropriate care plan.   
+"}

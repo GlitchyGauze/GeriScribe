@@ -1,0 +1,48 @@
+content="**HPI**
+
+Patient Name: Dennis Stockton
+Age: 95 years old
+Sex: Male
+Chief Complaint: Chronic hip pain and multiple falls resulting in hospitalizations, requesting medication refills.
+
+Medical History:
+* Chronic hip pain with ostoarthritis
+* Multiple falls resulting in hospitalizations
+* On multiple pain medications including tramadol (recommended discontinuing due to SSRI use)
+* Never seen or evaluated by a pain clinic
+
+Social History: Not provided
+Family History: Not provided
+Medications: Tramadol, SSRIs
+Allergies: Not provided
+Travel History: Not provided
+Last Meals/Eating Habits: Not provided
+Sleep Pattern: Not provided
+Living Situation: Lives in a wheelchair and is not interested in physical therapy.
+
+**COMPREHENSIVE GERIATRICS ASSESSMENT**
+
+MATTERS MOST:
+The matter most concerning to the patient appears to be his chronic hip pain and multiple falls resulting in hospitalizations, which suggests a need for better pain management.
+
+MEDICATIONS:
+The patient is currently on tramadol for chronic pain. Due to the use of SSRIs, which increases the risk of serotonin syndrome, I recommend discontinuing tramadol. The patient's multiple refills from multiple prescribers are concerning and may indicate a lack of coordination between healthcare providers. It would be beneficial to establish care with a pain clinic to manage the patient's pain more effectively.
+
+MIND:
+The Geriatrics Depression Scale (GDS) is normal, indicating no signs of depression at this time. However, it is essential to regularly monitor for depressive symptoms in older adults.
+
+SLUMS Score: Normal (25 or higher)
+
+MOBILITY:
+The patient uses a wheelchair and shows little interest in physical therapy, which may be due to his chronic hip pain and multiple falls. It would be beneficial to explore alternative mobility aids that can improve his quality of life.
+
+MULTICOMPLEXITY:
+The patient's medical conditions are complex, with chronic hip pain and ostoarthritis, which increases the risk of falls. Additionally, the use of multiple medications and the lack of coordination between healthcare providers suggest a need for improved medication management.
+
+***NEEDS TO BE COLLECTED***
+
+* A thorough review of the patient's social history to understand his living situation and potential factors contributing to his fall risks.
+* Information about the patient's sleep patterns, last meals, and eating habits to assess his nutritional status and potential connections to his pain.
+* More information about the patient's previous falls and hospitalizations to better understand his risk factors and develop a plan to prevent future falls.
+
+Note: A comprehensive geriatric assessment is essential for providing high-quality care to older adults. This assessment should be performed by a multidisciplinary team, including a primary care physician, geriatrician, physical therapist, occupational therapist, and social worker." additional_kwargs={} response_metadata={'model': 'llama3.2', 'created_at': '2025-05-06T00:35:28.199031Z', 'done': True, 'done_reason': 'stop', 'total_duration': 13571336250, 'load_duration': 33003083, 'prompt_eval_count': 498, 'prompt_eval_duration': 361083500, 'eval_count': 579, 'eval_duration': 13176001208, 'message': Message(role='assistant', content='', images=None, tool_calls=None)} id='run--9dd227e8-fa8d-4dec-a211-d02a9143bb3a-0' usage_metadata={'input_tokens': 498, 'output_tokens': 579, 'total_tokens': 1077}

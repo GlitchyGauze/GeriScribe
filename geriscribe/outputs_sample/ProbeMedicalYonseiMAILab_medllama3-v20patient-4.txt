@@ -1,0 +1,30 @@
+{"notes": "Clarice Hamilton
+77 year old female
+retired nurse
+has COPD, Asthma, Recurrent Pneumonia, Seasonal Allergies
+Has mixed dementia - vascular and parkinson
+continue levadopa carbidopa
+has multiple falls within the last year
+continues to smoke
+GDS 10/15
+SLUMS was poor
+no acute changes, so no delirium
+I would recommend hospice and palliative care at this point especially due to falls
+He also said he has new onset heartburn, will trial on PPI and refer to GI for further evaluation", "text": "Patient Name: Clarice Hamilton
+Date of Birth: ***NEEDS TO BE COLLECTED***
+
+Chief Complaint: ***NEEDS TO BE COLLECTED***
+
+History of Presenting Illness: ***NEEDS TO BE COLLECTED***
+
+Personal Medical History: COPD, Asthma, recurrent pneumonia, seasonal allergies
+Surgical History: ***NEEDS TO BE COLLECTED***
+Social History: smoker
+Family History: ***NEEDS TO BE COLLECTED***
+
+COMPREHENSIVE GERIATRIC ASSESSMENT:
+Matters Most: to prevent falls
+Mobility: history of falls
+Medications: polypharmacy
+Mind: GDS 10/15, SLUMS poor
+Multicomplexity: falls make treatment challenging"}

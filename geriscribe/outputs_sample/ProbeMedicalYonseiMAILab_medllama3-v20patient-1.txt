@@ -1,0 +1,21 @@
+{"notes": "Alice Wonderland 84 year old female
+Has headache
+history of diabetes, multiple falls
+Recent fall 3 days ago prior to onset of headache
+Has been getting worse
+Recommend she go to the ED to rule out intracranial pathology
+Her GDS is 15/15
+He has no history of smoking or tobacco use
+    ", "text": "Patient Name: Alice Wonderland
+Date of Birth: ***NEEDS TO BE COLLECTED***
+Chief Complaint: Headache
+History of Presenting Illness: Patient is seen in clinic for headache. The patient\u2019s daughter reports that the patient has had a gradual worsening of headache over the course of 3 days. The patient\u2019s baseline is well known to the clinician and states that she is doing well at home. The patient\u2019s medical history includes diabetes and multiple falls. Her surgical history includes **(please fill in) **. Her social history includes **(please fill in) **. Her family history includes **(please fill in) **.
+
+COMPREHENSIVE GERIATRIC ASSESSMENT:
+Matters Most: Return to home and maintain function and independence
+Mobility: Yes, patient has a history of falls
+Medications: Yes, patient has polypharmacy
+Mind: Geriatric Depression Scale: 15/15
+Multicomplexity: Patient\u2019s complexity comes from her cognitive and physical limitations as well as her medical comorbidities
+
+ASSESSMENT AND PLAN: The patient has a complex set of needs including her pain, her anxiety and depression, her low back pain, her headache, and her cognitive changes. At this time, we recommend that she be admitted to an inpatient geriatric unit where all of these needs can be thoroughly assessed and managed."}

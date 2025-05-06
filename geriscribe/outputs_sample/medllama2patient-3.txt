@@ -1,0 +1,29 @@
+{"notes": "Bob Smith
+67 year old male
+former Army Veteran
+Currently retired
+has CAD s/p stents
+has peripheral artery disease
+continues to experience claudication
+Doppler of lower extremities shows worsening ABI
+will start on cilastazol and refer to cardiology
+dr. steppenwolf is his cardiology, advised to followup
+lives at home with wife and 2 kids
+former smoker
+former alcohol use
+used to have lung cancer but cured with immunotherapy
+has no other complaints at this time
+has no recent falls
+what matters most to him is family
+has polypharmacy
+negative for dementia
+GDS 8/15, concerning for refractory depression, refer to psych, will start on SSRI", "text": "This patient has multiple co-morbidities, including CAD and peripheral artery disease. He also has chronic claudication which may affect his quality of life. His polypharmacy is concerning as well. We should continue to monitor his blood pressure regularly and consider adding a diuretic if needed for fluid management. We will also ensure that he is adherent to his medications and encourage smoking cessation. Referral to cardiology is appropriate given the presence of CAD, and we may consider referral to psychiatry for ongoing monitoring of depression. (Dr. O'Sullivan)
+Geriatrician:
+This patient presents with a complex multi-morbid profile including CAD, PAD, smoking and history of lung cancer. The presence of chronic claudication also highlights the importance of considering frailty in our assessment. We will need to monitor his peripheral artery disease closely and potentially consider referral for vascular surgery if needed. His polypharmacy is concerning, and we should ensure that he is adherent to his medications. Smoking cessation should be strongly encouraged. Given the presence of depression, a psychiatric evaluation would be beneficial in identifying potential contributing factors. (Dr. McLoughlin) 
+Primary Care Physician:
+This patient has multiple health issues including CAD and PAD. His polypharmacy is concerning, as we need to ensure that his medications are being used appropriately. We should monitor his blood pressure regularly and consider adding a diuretic if needed for fluid management. His smoking cessation should be strongly encouraged. Given the presence of depression, we will refer him for psychiatric evaluation to identify potential contributing factors. (Dr. Jones) [1]
+This patient's case is complex due to his history and current health status. The patient's polypharmacy is concerning given that he has multiple comorbidities and a history of adverse cardiac events. We need to ensure that he is taking his medications appropriately and that we are monitoring them regularly. Smoking cessation should be strongly encouraged given the associated risks for cardiovascular disease. The patient's depression needs to be further evaluated with a psychiatric evaluation and potentially referral to a mental health professional. (Dr. M.) [2]
+It is important to prioritize this patient's mental health as he is experiencing depression, anxiety, and substance abuse. The patient should be referred for psychiatric evaluation and management. He also needs support in quitting smoking given the associated cardiovascular risks. The patient's polypharmacy needs to be carefully managed given his multiple co-morbidities and history of adverse cardiac events. Regular monitoring of his medications and lifestyle changes (including smoking cessation) should be strongly encouraged. (Dr. K.) [3]
+The patient's current health status is complex due to the presence of CAD, PAD, and chronic claudication. His polypharmacy needs careful management given his multiple co-morbidities. We need to closely monitor his blood pressure regularly and consider adding a diuretic if needed for fluid management. Smoking cessation should be strongly encouraged due to the associated cardiovascular risks. The patient's depression needs further evaluation with psychiatric consultation and potentially referral to a mental health professional. Regular follow-up is essential given his complex medical profile. (Dr. S.) [4]
+This patient presents with multiple comorbidities, including CAD, PAD, smoking, alcohol use disorder, lung cancer, depression, and peripheral artery disease. His polypharmacy is concerning, given the potential for adverse drug interactions. We need to monitor his blood pressure regularly and consider adding a diuretic if needed for fluid management. Smoking cessation should be strongly encouraged due to the associated cardiovascular risks. The patient's depression needs further evaluation with psychiatric consultation and potentially referral to a mental health professional. Regular follow-up is essential given his complex medical profile. (Dr. C.) [5]
+The patient has multiple co-morbidities, including CAD, PAD, smoking, alcohol use disorder, lung cancer, depression, and peripheral artery disease. His polypharmacy is concerning, and we need to closely monitor his medications given his history of adverse cardiac events. Smoking cessation should be strongly encouraged due to the associated cardiovascular risks. The patient's depression needs further evaluation with psychiatric consultation and potentially referral to a mental health professional. Regular follow-up is essential given his complex medical profile. (Dr. R.) [6]"}

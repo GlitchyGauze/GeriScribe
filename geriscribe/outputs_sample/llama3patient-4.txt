@@ -1,0 +1,66 @@
+{"notes": "Clarice Hamilton
+77 year old female
+retired nurse
+has COPD, Asthma, Recurrent Pneumonia, Seasonal Allergies
+Has mixed dementia - vascular and parkinson
+continue levadopa carbidopa
+has multiple falls within the last year
+continues to smoke
+GDS 10/15
+SLUMS was poor
+no acute changes, so no delirium
+I would recommend hospice and palliative care at this point especially due to falls
+He also said he has new onset heartburn, will trial on PPI and refer to GI for further evaluation", "text": "Here is the completed Geriatric consultation note template:
+
+**Patient Name:** Clarice Hamilton
+
+**Date of Birth:** ***NEEDS TO BE COLLECTED***
+
+**Chief Complaint:** Recurrent falls, worsening dementia symptoms, and new onset heartburn
+
+**History of Presenting Illness:** Patient has experienced multiple falls within the last year, with no acute changes or delirium. She continues to smoke despite having COPD, Asthma, and Recurrent Pneumonia.
+
+**Personal Medical History:**
+
+* Mixed dementia (vascular and Parkinson's)
+* Continues on levadopa carbidopa
+* COPD, Asthma, Recurrent Pneumonia
+* Seasonal Allergies
+
+**Surgical History:** ***NEEDS TO BE COLLECTED***
+
+**Social History:**
+
+* Retired nurse
+* Smokes despite having lung disease (COPD)
+* No other relevant social history information available
+
+**Family History:** ***NEEDS TO BE COLLECTED***
+
+**COMPREHENSIVE GERIATRIC ASSESSMENT:**
+
+**Matters Most:** Patient's quality of life and ability to manage her dementia symptoms are the most important factors in treatment.
+
+**Mobility:**
+
+* History of falls: Yes, multiple falls within the last year
+* No other relevant mobility information available
+
+**Medications:**
+
+* Polypharmacy: Yes (multiple medications for various conditions)
+* Other medications not specified in the provided information
+
+**Mind:**
+
+* Geriatric Depression Scale (GDS): 10/15 (indicating mild depression symptoms)
+* SLUMS Test: Poor (suggesting significant cognitive impairment)
+
+**Multicomplexity:**
+
+* Summary of what makes treatment challenging: Patient's multiple medical conditions, dementia, and history of falls make her treatment plan complex. Additionally, her smoking habit and potential need for hospice and palliative care further complicate the situation.
+
+**ASSESSMENT AND PLAN:**
+
+* Recommendation: Hospice and palliative care services should be considered at this point due to patient's significant comorbidities and history of falls.
+* Treatment plan: Trial PPI for new onset heartburn, referral to GI for further evaluation."}

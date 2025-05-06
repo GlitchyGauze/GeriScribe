@@ -1,0 +1,17 @@
+{"notes": "Dennis Stockton
+95 year old male
+chronic hip pain
+osteoarthritis
+multiple falls resulting in hospitalizations
+needs medication refills
+on multiple pain medications
+never seen or evaluted by pain clinic
+requesting refills
+currently on tramadol, recommend discontinuing especially since   patient is on SSRI increasing risk of serotonin syndrome
+uses wheelchair, not interested in PT
+reviewing PDMP shows multiple refills from multiple prescribers
+advised to establish care with pain clinic
+will not refill at this time
+discussed need for better pain control
+GDS normal
+SLUMS normal", "text": "This patient's Geriatric Assessment is complete, and we are awaiting the results of a Geriatric Depression Scale (GDS) and SLUMS test. The patient also has chronic hip pain, osteoarthritis, multiple falls with hospitalizations, and requires medication refills, especially since he's on an SSRI. We reviewed his Medication Use Review Program Report, which shows multiple prescribers. We advise him to establish care with a pain clinic for better pain control. He denies any interest in physical therapy but is wheelchair-bound. The Assistant should inform the doctor once the results of the GDS and SLUMS are available."}

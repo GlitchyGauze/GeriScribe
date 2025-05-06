@@ -1,0 +1,69 @@
+{"notes": "Clarice Hamilton
+77 year old female
+retired nurse
+has COPD, Asthma, Recurrent Pneumonia, Seasonal Allergies
+Has mixed dementia - vascular and parkinson
+continue levadopa carbidopa
+has multiple falls within the last year
+continues to smoke
+GDS 10/15
+SLUMS was poor
+no acute changes, so no delirium
+I would recommend hospice and palliative care at this point especially due to falls
+He also said he has new onset heartburn, will trial on PPI and refer to GI for further evaluation", "text": "Patient Name: Clarice Hamilton
+Date of Birth: ***NEEDS TO BE COLLECTED***
+
+Chief Complaint:
+***NEEDS TO BE COLLECTED***
+
+History of Presenting Illness:
+Clarice presents with complaints of recurrent falls, worsening symptoms of mixed dementia, and new onset heartburn.
+
+Personal Medical History:
+- COPD
+- Asthma
+- Recurrent Pneumonia
+- Seasonal Allergies
+
+Surgical History:
+***NEEDS TO BE COLLECTED***
+
+Social History:
+- Retired nurse
+- Smoker
+
+Family History:
+***NEEDS TO BE COLLECTED***
+
+COMPREHENSIVE GERIATRIC ASSESSMENT:
+Matters Most: Clarice's ability to manage her chronic conditions and prevent further falls is of utmost importance.
+
+Mobility:
+- History of Falls: Yes, multiple falls in the last year.
+- Fall prevention measures discussed during visit.
+
+Medications:
+- Does patient have polypharmacy? Yes.
+- Current medications: Levadopa-carbidopa for Parkinson's disease, to be continued.
+- Additional concerns due to polypharmacy.
+
+Mind:
+- Geriatric Depression Scale (GDS): 10/15
+- SLUMS Test: Poor score indicating significant cognitive impairment.
+- No acute changes, no delirium observed during visit.
+
+Multicomplexity:
+- Summary of what makes treatment of patient challenging: Clarice's complex medical history, polypharmacy, and ongoing falls pose significant challenges in her care. Additionally, her cognitive status adds complexity to management decisions.
+
+ASSESSMENT AND PLAN:
+
+Recommendation for hospice and palliative care due to advanced age, complex medical conditions, and high risk of further deterioration.
+
+Further recommendations:
+- Continue levadopa-carbidopa for Parkinson's disease.
+- Trial PPI medication for heartburn symptoms. Refer to GI specialist for further evaluation.
+- Review and adjust medications to minimize polypharmacy risks.
+- Implement fall prevention strategies, including home safety assessments and assistance with mobility aids if needed.
+- Regular follow-ups with primary care physician to monitor condition progression.
+
+Note: This template has been adapted based on the provided information, and some sections may require additional data for a comprehensive geriatric consultation."}

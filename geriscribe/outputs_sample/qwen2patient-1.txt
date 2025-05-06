@@ -1,0 +1,38 @@
+{"notes": "Alice Wonderland 84 year old female
+Has headache
+history of diabetes, multiple falls
+Recent fall 3 days ago prior to onset of headache
+Has been getting worse
+Recommend she go to the ED to rule out intracranial pathology
+Her GDS is 15/15
+He has no history of smoking or tobacco use
+    ", "text": "Patient Name: Alice Wonderland
+
+Date of Birth:
+
+Chief Complaint: Headache 
+
+History of Presenting Illness: The patient, an 84-year-old female, presents with a recent onset headache that started three days ago and appears to be worsening. She has a history of diabetes and had a fall approximately three days prior to the appearance of her headache.
+
+Personal Medical History: She is diagnosed with diabetes.
+
+Surgical History: Information about previous surgeries ***NEEDS TO BE COLLECTED***
+
+Social History: No smoking or tobacco use history.
+
+Family History: Information about family medical history ***NEEDS TO BE COLLECTED***
+
+COMPREHENSIVE GERIATRIC ASSESSMENT:
+Matters Most: The patient's primary concern is her worsening headache and fear of recurrence due to her previous fall.
+Mobility: Patient has a history of multiple falls, including one three days prior to the onset of headache symptoms. 
+Medications: She experiences polypharmacy given her condition and comorbidities.
+Mind: Her Geriatric Depression Scale score indicates no signs of depression (GDS = 15/15). The SLUMS Test results are not provided.
+
+Multicomplexity: Treatment challenges include managing the patient\u2019s diabetes, understanding if the headache is related to her fall or other health issues, and ensuring she receives adequate pain management while avoiding complications from polypharmacy.
+
+ASSESSMENT AND PLAN:
+The assessment reveals concerns about potential intracranial pathology associated with the recent onset of headache following a fall. The plan recommends that Alice be directed to an Emergency Department (ED) for thorough examination and necessary diagnostic tests, such as imaging studies, to rule out any underlying neurological issue.
+
+In summary, her immediate priority is ED referral due to concern for possible intracranial pathology related to the new headache and history of falls. She will receive medical attention in a clinical setting equipped with appropriate diagnostic resources.
+
+Please note: The missing information (Social History, Family History) should be obtained during subsequent consultations or from available records."}

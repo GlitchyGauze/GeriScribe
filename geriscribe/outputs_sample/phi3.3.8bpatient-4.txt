@@ -1,0 +1,28 @@
+{"notes": "Clarice Hamilton
+77 year old female
+retired nurse
+has COPD, Asthma, Recurrent Pneumonia, Seasonal Allergies
+Has mixed dementia - vascular and parkinson
+continue levadopa carbidopa
+has multiple falls within the last year
+continues to smoke
+GDS 10/15
+SLUMS was poor
+no acute changes, so no delirium
+I would recommend hospice and palliative care at this point especially due to falls
+He also said he has new onset heartburn, will trial on PPI and refer to GI for further evaluation", "text": "Patient Name: Clarice Hamilton
+Date of Birth: [***NEEDS TO BE COLLECTED***] (Assumed date based on the age provided) - Born in 1943 if currently aged at 77 years. This should be confirmed with patient or medical records for accuracy.
+
+Chief Complaint: New onset heartburn, history of recurrent pneumonia and COPD symptoms related to smoking habits
+
+History of Presenting Illness: Patient is a retired nurse dealing with chronic pulmonary issues exacerbated by her past occupation in healthcare. She presents frequent respiratory distress likely due to long-term effects from years as a nursing professional and continued smoking post-retirement, compounded by an existing history of asthma and recurrent pneumonia episodes
+
+Personal Medical History: Chronic Obstructive Pulmonary Disease (COPD), Asthma
+Surgical History: [***NEEDS TO BE COLLECTED***] - Inquire about past surgeries that may be relevant to the patient's current health status, including any procedures related to her chronic conditions. 
+Social History: Retired nurse with long-term smoking history (continuing post-retirement) and mixed dementia affecting cognitive function
+Family History: [***NEEDS TO BE COLLECTED***] - Information on family members' health, especially any hereditary pulmonary or neurological conditions which may be contributing to the patient\u2019s geriatric syndrome. 
+
+COMPREHENSIVE GERIATRIC ASSESSMENT: Matters most for Clarice are maintaining quality of life with minimal symptoms and managing her complex medical needs without frequent hospitalizations, as she has experienced multiple falls in the past year which highlights a significant concern. Mobility issues have been identified due to recurrent falls. Medications review is necessary to address polypharmacy risks, especially concerning medications that might exacerbate COPD symptoms or interact with her current treatment regimen for mixed dementia and Parkinson's disease (levadopa carbidopa). Mind: Geriatric Depression Scale score is 10/15 indicating mild depression, which may affect overall health status. The SLUMS Test result was poor; this suggests significant cognitive impairment that could be a contributing factor to her falls and requires further evaluation by neurology or geriatric psychology services for comprehensive assessment of mixed dementia's progression, potentially interfering with medication adherence. Multicomplexity: The patient\u2019s treatment is challenged due to the complexity arising from managing multiple chronic conditions (COPD and asthma), recurrent pneumonia episodes, Parkinson's disease symptoms compounded by mixed dementia which may impact her cognitive function significantly. 
+
+ASSESSMENT AND PLAN: The plan should include a review of current medications to optimize treatment while minimizing polypharmacy risks and consultation with pulmonology for recurrent pneumonia, neurology/geriatric psychology evaluation due to mixed dementia concerns. Considering Clarice's smoking habit in relation to her respiratory conditions necessitates a referral for cessation support services or programs specialized for older adults with long-term addictions and chronic illnesses (e.g., COPD/Asthma Action Line). Recommendations are made for hospice care integration given the significant impact of her falls, providing a comprehensive approach to end-of-life planning that is sensitive to both physical comfort needs due to Parkinson's and neurological dementia symptoms. For new onset heartburn concerns likely secondary to GERD or possible medication side effects, trial PPI with gastroenterology referral for evaluation of underlying conditions affecting esophageal function is advised. 
+"}

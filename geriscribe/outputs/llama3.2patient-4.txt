@@ -1,0 +1,38 @@
+content="**History of Present Illness (HPI)**
+
+Mrs. Hamilton presents with a 1-year history of multiple falls, which have become increasingly frequent over the past year. She reports experiencing at least 2-3 falls per week, with each fall resulting in minor injuries such as bruising or sprains. Mrs. Hamilton's COPD has worsened over the years, and she experiences shortness of breath during exertion. She also experiences recurrent pneumonia episodes and seasonal allergies.
+
+Mrs. Hamilton continues to smoke cigarettes, which exacerbates her COPD symptoms. She reports that her heartburn has recently become more severe, prompting her to seek medical attention. Despite this new symptom, Mrs. Hamilton is reluctant to stop smoking due to the perceived benefits it provides for her breathing.
+
+**Comprehensive Geriatrics Assessment**
+
+MATTERS MOST: The primary concern for Mrs. Hamilton is her increasing risk of falls and subsequent injuries, which compromises her quality of life and independence.
+
+MEDICATIONS:
+Mrs. Hamilton is currently taking:
+
+* Levodopa/carbidopa for Parkinson's disease
+* Multiple medications for COPD (not specified)
+* PPI for new onset heartburn
+
+It is recommended to reassess the patient's COPD management plan and consider discontinuing or adjusting any medications that may be contributing to her falls. The trial of a PPI will continue, but further evaluation by a gastroenterologist is warranted.
+
+MIND:
+Mrs. Hamilton scores 10/15 on the Geriatric Depression Scale (GDS), indicating mild depression. Her SLUMS score was poor, suggesting mild neurocognitive disorder. However, no acute changes were observed, and delirium is not suspected at this time.
+
+MOBILITY:
+Mrs. Hamilton has experienced multiple falls in the last year, including those related to her COPD exacerbations or positional issues (e.g., standing up quickly). She uses a cane for walking due to concerns about falling. Mrs. Hamilton's mobility is limited by her chronic medical conditions, making it challenging for her to perform daily activities independently.
+
+MULTICOMPLEXITY:
+Mrs. Hamilton's complex medical history includes multiple comorbidities (COPD, asthma, recurrent pneumonia, and seasonal allergies), which complicates her care. Additionally, her mixed dementia diagnosis adds another layer of complexity, as it affects her cognitive function and increases her risk of falls. Socioeconomic challenges are evident in Mrs. Hamilton's reluctance to stop smoking due to perceived benefits.
+
+**Additional Recommendations**
+
+* Refer Mrs. Hamilton for a comprehensive geriatric assessment (CGA) to optimize her care plan.
+* Consider implementing fall prevention strategies, such as removing tripping hazards and improving lighting, to reduce her risk of falls.
+* Reassess Mrs. Hamilton's medication regimen to minimize polypharmacy and potential interactions that may contribute to her falls.
+* Schedule follow-up appointments with the GI specialist to evaluate the efficacy of the trial PPI and plan further management.
+
+**Hospice and Palliative Care**
+
+In light of Mrs. Hamilton's increasing risk of falls, multiple comorbidities, and cognitive impairment, it is recommended to consider hospice and palliative care services. This approach will provide her with comprehensive symptom management, pain control, and emotional support as she navigates the end-of-life stage." additional_kwargs={} response_metadata={'model': 'llama3.2', 'created_at': '2025-05-06T00:35:44.317625Z', 'done': True, 'done_reason': 'stop', 'total_duration': 16111710333, 'load_duration': 14411708, 'prompt_eval_count': 495, 'prompt_eval_duration': 345993250, 'eval_count': 668, 'eval_duration': 15746779292, 'message': Message(role='assistant', content='', images=None, tool_calls=None)} id='run--7bcc1bc9-97b1-41f5-9a6a-8f7c6ae7c295-0' usage_metadata={'input_tokens': 495, 'output_tokens': 668, 'total_tokens': 1163}

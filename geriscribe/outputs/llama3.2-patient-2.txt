@@ -1,0 +1,60 @@
+content="HPI:
+
+**Patient:** Bob Smith
+**Age:** 67
+**Sex:** Male
+**Veteran Status:** Former Army Veteran
+**Retirement Status:** Currently retired
+
+**Chief Complaint:** (None listed)
+
+**History of Present Illness:**
+
+The patient has been experiencing claudication symptoms in his lower extremities, which have worsened according to the Doppler studies. He is being started on cilastazol and will be referred to cardiology for further management.
+
+**Past Medical History:**
+
+* Coronary Artery Disease (CAD) with stents
+* Peripheral Artery Disease (PAD)
+* Claudication symptoms in lower extremities
+* History of lung cancer, cured with immunotherapy
+* Former smoker
+* Former alcohol use
+
+***NEEDS TO BE COLLECTED:*** Social history to understand the impact of his medical conditions on his family life.
+
+**Medications:**
+
+The patient has polypharmacy, which is a concern. He is currently taking multiple medications for his CAD, PAD, and lung cancer. Cilastazol will be added to his regimen, and he will be referred to cardiology for further management.
+
+***NEEDS TO BE COLLECTED:*** Review of all current medications, including any new or changed medications.
+
+**MIND:**
+
+The patient's cognitive status appears to be intact, with no reported memory problems or confusion. However, the GDS score of 8/15 is concerning for refractory depression. A follow-up appointment will be scheduled with a psychiatrist to discuss further management options.
+
+***NEEDS TO BE COLLECTED:*** Results from any recent mental health assessments or cognitive evaluations.
+
+**MOBILITY:**
+
+The patient reports no recent falls and has no mobility issues. However, the worsening claudication symptoms may impact his ability to perform daily activities.
+
+***NEEDS TO BE COLLECTED:*** Assessment of the patient's home environment to identify potential fall risks.
+
+**MULTICOMPLEXITY:**
+
+The patient's medical conditions are complex, with multiple comorbidities and a history of lung cancer. The socioeconomic challenges associated with his military service and retirement status may impact his care.
+
+***NEEDS TO BE COLLECTED:*** Information about the patient's support system, including family members and caregivers.
+
+COMPREHENSIVE GERIATRICS ASSESSMENT
+
+MATTERS MOST: Family support and involvement in Bob Smith's care are crucial to addressing his complex medical conditions and emotional well-being.
+
+MEDICATIONS: The patient has polypharmacy and will be started on cilastazol. Further review of his current medications is needed to minimize potential interactions and optimize treatment.
+
+MIND: The GDS score of 8/15 suggests refractory depression, and a follow-up appointment with a psychiatrist is necessary to discuss further management options.
+
+MOBILITY: The patient's mobility appears intact, but the worsening claudication symptoms may impact his ability to perform daily activities. Assessment of the home environment is recommended to identify potential fall risks.
+
+MULTICOMPLEXITY: The patient's medical conditions are complex, and socioeconomic challenges associated with his military service and retirement status should be addressed through involvement of family members and caregivers in his care." additional_kwargs={} response_metadata={'model': 'llama3.2', 'created_at': '2025-05-06T00:37:17.002518Z', 'done': True, 'done_reason': 'stop', 'total_duration': 15570473166, 'load_duration': 22643333, 'prompt_eval_count': 527, 'prompt_eval_duration': 428430875, 'eval_count': 660, 'eval_duration': 15117830334, 'message': Message(role='assistant', content='', images=None, tool_calls=None)} id='run--e67a940c-ce15-4e15-83e8-439f216edfdd-0' usage_metadata={'input_tokens': 527, 'output_tokens': 660, 'total_tokens': 1187}

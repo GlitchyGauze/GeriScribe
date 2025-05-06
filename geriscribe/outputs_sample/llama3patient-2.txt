@@ -1,0 +1,65 @@
+{"notes": "Dennis Stockton
+95 year old male
+chronic hip pain
+osteoarthritis
+multiple falls resulting in hospitalizations
+needs medication refills
+on multiple pain medications
+never seen or evaluted by pain clinic
+requesting refills
+currently on tramadol, recommend discontinuing especially since   patient is on SSRI increasing risk of serotonin syndrome
+uses wheelchair, not interested in PT
+reviewing PDMP shows multiple refills from multiple prescribers
+advised to establish care with pain clinic
+will not refill at this time
+discussed need for better pain control
+GDS normal
+SLUMS normal", "text": "Here is the completed consultation note:
+
+**Patient Information**
+
+* Patient Name: Dennis Stockton
+* Date of Birth: 95 years old (***NEEDS TO BE COLLECTED***)
+
+**Chief Complaint**
+
+* Chronic hip pain
+
+**History of Presenting Illness**
+
+* Multiple falls resulting in hospitalizations due to chronic hip pain
+
+**Personal Medical History**
+
+* Osteoarthritis
+* Other medical conditions: ***NEEDS TO BE COLLECTED***
+
+**Surgical History**
+
+* ***NEEDS TO BE COLLECTED***
+
+**Social History**
+
+* Uses wheelchair and not interested in physical therapy (PT)
+* ***NEEDS TO BE COLLECTED***
+
+**Family History**
+
+* ***NEEDS TO BE COLLECTED***
+
+**COMPREHENSIVE GERIATRIC ASSESSMENT**
+
+* **Matters Most**: Patient's pain management
+* **Mobility**: Uses wheelchair and not interested in PT, history of multiple falls resulting in hospitalizations
+* **Medications**: On tramadol, multiple refills from multiple prescribers, advised to establish care with pain clinic
+* **Mind**:
+\t+ Geriatric Depression Scale: Normal
+\t+ SLUMS Test: Normal
+* **Multicomplexity**: Multiple medications, multiple prescribers, and lack of coordination may be contributing to patient's poor pain control.
+
+**ASSESSMENT AND PLAN**
+
+* Patient's chronic hip pain is not well-controlled due to polypharmacy and lack of coordination among prescribers.
+* I recommend discontinuing tramadol due to the risk of serotonin syndrome with SSRI use.
+* The patient should establish care with a pain clinic for better pain management and coordination of medications.
+* At this time, I will not refill tramadol or other medications until the patient is established in a pain clinic."}

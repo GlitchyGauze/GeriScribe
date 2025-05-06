@@ -1,0 +1,46 @@
+{"notes": "Alice Wonderland 84 year old female
+Has headache
+history of diabetes, multiple falls
+Recent fall 3 days ago prior to onset of headache
+Has been getting worse
+Recommend she go to the ED to rule out intracranial pathology
+Her GDS is 15/15
+He has no history of smoking or tobacco use
+    ", "text": "Here's the completed Geriatric consultation note:
+
+Patient Name: Alice Wonderland
+Date of Birth: ***NEEDS TO BE COLLECTED***
+
+Chief Complaint: Headache
+
+History of Presenting Illness: The patient reports a worsening headache over the past 3 days, following a recent fall. She has been experiencing increasing severity and duration of symptoms.
+
+Personal Medical History:
+- Diabetes (***NEEDS TO BE COLLECTED DATE OF DIAGNOSIS AND CURRENT CONTROL***)
+- Recent falls (multiple in the past)
+- No history of smoking or tobacco use
+
+Social History: Not provided
+Family History: Not provided
+
+COMPREHENSIVE GERIATRIC ASSESSMENT:
+Matters Most: Her recent fall and increasing headache severity make mobility a significant concern.
+
+Mobility:
+- History of Falls: Yes, multiple falls in the past.
+- Current Condition: Unable to assess current mobility status without further information on her current activity level or recent accidents.
+
+Medications: ***NEEDS TO BE COLLECTED*** (Assess current medications and potential interactions with new treatments)
+
+Mind:
+- Geriatric Depression Scale (GDS): 15/15
+- SLUMS Test: Not performed
+
+Multicomplexity:
+Summary of what makes treatment of patient challenging: The complexity arises from her recent fall history, polypharmacy risk, and the presence of geriatric depression, making a comprehensive assessment and management plan crucial.
+
+ASSESSMENT AND PLAN:
+
+Recommendation for next steps is to send Alice Wonderland to the Emergency Department (ED) for further evaluation and possible ruling out of intracranial pathology. Follow-up appointment will be scheduled once her condition is stable.
+
+***NEEDS TO BE COLLECTED***"}

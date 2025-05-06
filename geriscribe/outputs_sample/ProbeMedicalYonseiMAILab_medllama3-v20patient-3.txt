@@ -1,0 +1,32 @@
+{"notes": "Bob Smith
+67 year old male
+former Army Veteran
+Currently retired
+has CAD s/p stents
+has peripheral artery disease
+continues to experience claudication
+Doppler of lower extremities shows worsening ABI
+will start on cilastazol and refer to cardiology
+dr. steppenwolf is his cardiology, advised to followup
+lives at home with wife and 2 kids
+former smoker
+former alcohol use
+used to have lung cancer but cured with immunotherapy
+has no other complaints at this time
+has no recent falls
+what matters most to him is family
+has polypharmacy
+negative for dementia
+GDS 8/15, concerning for refractory depression, refer to psych, will start on SSRI", "text": "Patient Name: Bob Smith
+Date of Birth: ***NEEDS TO BE COLLECTED***
+Chief Complaint: worsening lower extremity claudication
+History of Presenting Illness: The patient is doing well at home with his wife and two kids. He reports a 3-month history of progressively worsening claudication. He adds that he used to be able to walk further but now has to rest after 100 feet of walking. He adds that he has been told by his cardiologist that he needs to avoid any strenuous activity but is finding it difficult to do so. He is currently taking hydrochlorothiazide and aspirin. He has a past medical history of coronary artery disease s/p stents, lung cancer s/p immunotherapy, and peripheral artery disease. His vitals currently are temperature 37.1, blood pressure 132/86, pulse 90/respirations 16. On physical exam, his heart out put is normal, normal heart sounds, and 10/15 on speech. Lower extremity pulses are weak and brachiofemoral index is 1.0. Doppler of lower extremities show worsening ABI. He is started on cilostazol. This patient has the following risk factors for falls: (A) male gender, (B) polymedication, (C) cognitive impairment, (D) history of fall
+Personal Medical History: coronary artery disease s/p stents; lung cancer s/p immunotherapy; peripheral artery disease
+Surgical History: ***NEEDS TO BE COLLECTED***
+Social History: retired, former smoker, used to drink alcohol but doesn't anymore
+Family History: ***NEEDS TO BE COLLECTED***
+COMPREHENSIVE GERIATRIC ASSESSMENT:
+Matters Most: family
+Mobility: no
+Multicomplexity: yes
+Mind: GDS 8/15; SLUMS Test: ***NEEDS TO BE COLLECTED***"}

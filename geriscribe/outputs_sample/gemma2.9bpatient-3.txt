@@ -1,0 +1,71 @@
+{"notes": "Bob Smith
+67 year old male
+former Army Veteran
+Currently retired
+has CAD s/p stents
+has peripheral artery disease
+continues to experience claudication
+Doppler of lower extremities shows worsening ABI
+will start on cilastazol and refer to cardiology
+dr. steppenwolf is his cardiology, advised to followup
+lives at home with wife and 2 kids
+former smoker
+former alcohol use
+used to have lung cancer but cured with immunotherapy
+has no other complaints at this time
+has no recent falls
+what matters most to him is family
+has polypharmacy
+negative for dementia
+GDS 8/15, concerning for refractory depression, refer to psych, will start on SSRI", "text": "## Geriatric Consultation Note
+
+**Patient Name:** Bob Smith
+**Date of Birth:** ***NEEDS TO BE COLLECTED***
+
+**Chief Complaint:**  Claudication worsening despite prior treatment. 
+
+**History of Presenting Illness:** Mr. Smith is a 67-year-old male, former Army Veteran and currently retired, presenting for evaluation of worsening claudication. He reports that his pain in the legs while walking has increased in severity and frequency over the past few months.  He has a history of CAD s/p stents and peripheral artery disease (PAD). A recent Doppler of lower extremities showed worsening ABI, prompting this consultation. 
+
+**Personal Medical History:**
+* Coronary Artery Disease (CAD) s/p stents
+* Peripheral Artery Disease (PAD)
+* Lung Cancer (cured with immunotherapy)
+
+**Surgical History:**  Stent placement for CAD
+
+**Social History:**
+* Former smoker
+* Former alcohol user
+* Lives at home with wife and 2 children
+
+**Family History:** ***NEEDS TO BE COLLECTED***
+
+
+**COMPREHENSIVE GERIATRIC ASSESSMENT:**
+
+**Matters Most:** What matters most to patient?  Mr. Smith stated that family is his top priority.
+
+**Mobility:**
+* History of Falls? No recent falls reported. 
+
+**Medications:** Does patient have polypharmacy? Yes, Mr. Smith has multiple medications. A full medication list needs to be reviewed.
+
+**Mind:**
+* Geriatric Depression Scale: 8/15 (concerning for refractory depression) - refer to psych
+* SLUMS Test: Negative for dementia
+
+**Multicomplexity:** Summary of what makes treatment of patient challenging: Mr. Smith presents with multiple comorbidities, including CAD, PAD, and a history of lung cancer. He has polypharmacy which may increase risk of adverse drug interactions. His score on the Geriatric Depression Scale suggests potential refractory depression requiring referral to psychiatry.
+
+
+ **ASSESSMENT AND PLAN:**
+
+* Start Mr. Smith on cilastazol for his PAD.
+* Refer to cardiology, Dr. Steppenwolf, for ongoing management of his CAD.  Advise patient to follow up with Dr. Steppenwolf promptly. 
+* Referral to psychiatry due to concerning score on the Geriatric Depression Scale (8/15). Initiate an SSRI for depression.
+
+
+* Thorough medication reconciliation and review for potential drug interactions is needed. 
+
+
+
+"}

@@ -1,0 +1,42 @@
+content="**HISTORICAL PERSONALITY INVENTORY (HPI)**
+
+* Age: 77 years old
+* Sex: Female
+* Occupation: Retired nurse
+* Marital Status: Not mentioned
+* Living Situation: Not mentioned
+* Education: High school diploma (assuming given her occupation as a retired nurse)
+* Social History:
+\t+ Lives alone
+\t+ Has difficulty with daily activities due to mobility issues and falls
+\t+ Smokes cigarettes (continues to smoke)
+* Review of Systems:
+\t+ COPD, Asthma, Recurrent Pneumonia, Seasonal Allergies (all under control)
+\t+ New onset heartburn
+
+**COMPREHENSIVE GERIATRICS ASSESSMENT**
+
+MATTERS MOST: The patient's safety and well-being, particularly regarding her multiple falls, need to be the top priority. Ensuring her home environment is fall-proof and providing adequate support to prevent future incidents is crucial.
+
+MEDICATIONS:
+\t+ Continues levadopa carbidopa for Parkinson's disease
+\t+ To be discontinued due to new onset heartburn symptoms, as a trial PPI will be started
+\t+ Other medications are under control
+
+MIND:
+\t+ GDS score of 10/15 suggests mild depression
+\t+ SLUMS was poor, indicating cognitive deficits, but no acute changes or delirium
+
+MOBILITY:
+\t+ Has had multiple falls within the last year (at least 3-4)
+\t+ Uses assistive devices for walking due to mobility issues
+\t+ Needs interventions to improve home safety and prevent future falls
+
+MULTICOMPLEXITY:
+\t+ The patient has complex medical conditions, including COPD, Asthma, Recurrent Pneumonia, Seasonal Allergies, Parkinson's disease, and mixed dementia. Socioeconomic challenges may affect her access to care, particularly with regard to transportation to follow-up appointments.
+
+**Additional Notes:**
+* Review of the patient's living situation is needed to ensure her home environment is safe for falls.
+* A follow-up appointment with the GI specialist should be scheduled to evaluate the new onset heartburn symptoms further.
+* The patient should be educated on the importance of smoking cessation and referred to a smoking cessation program if necessary.
+* Hospice and palliative care services should be continued, with regular reassessment of the patient's needs." additional_kwargs={} response_metadata={'model': 'llama3.2', 'created_at': '2025-05-06T00:34:07.725139Z', 'done': True, 'done_reason': 'stop', 'total_duration': 14187574292, 'load_duration': 88366000, 'prompt_eval_count': 495, 'prompt_eval_duration': 403783417, 'eval_count': 486, 'eval_duration': 13684809917, 'message': Message(role='assistant', content='', images=None, tool_calls=None)} id='run--b8878019-78cd-417f-95be-f0c8ccae83f3-0' usage_metadata={'input_tokens': 495, 'output_tokens': 486, 'total_tokens': 981}

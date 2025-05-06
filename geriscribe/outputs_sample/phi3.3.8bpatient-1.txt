@@ -1,0 +1,35 @@
+{"notes": "Alice Wonderland 84 year old female
+Has headache
+history of diabetes, multiple falls
+Recent fall 3 days ago prior to onset of headache
+Has been getting worse
+Recommend she go to the ED to rule out intracranial pathology
+Her GDS is 15/15
+He has no history of smoking or tobacco use
+    ", "text": "Patient Name: Alice Wonderland  
+Date of Birth: ***NEEDS TO BE COLLECTED***  
+
+Chief Complaint: Headache.  
+
+History of Presenting Illness: The patient has a history of diabetes and multiple falls, with the most recent fall occurring three days ago prior to onset of headache. Symptoms have been progressively worsening.  
+
+Personal Medical History: Diabetes (unspecified duration).   
+
+Surgical History: ***NEEDS TO BE COLLECTED***    
+
+Social History: The patient has no history of smoking or tobacco use, but other social habits like alcohol consumption and recreational drug usage need further exploration.  
+
+Family History: Family medical background is unspecified; details on genetic predispositions towards certain illnesses (if any) are required.   
+
+COMPREHENSIVE GERIATRIC ASSESSMENT: 
+Mobility Matters Most: The patient has experienced multiple falls, which could indicate balance and/independent living issues that need immediate attention.  
+History of Falls?: Yes.    
+Is the number or severity unusual? ***NEEDS TO BE COLLECTED***   
+Does this have an impact on her safety at home? YES, as it increases risk for injury due to falls which could be related to worsening headache symptoms.  
+Medications: A list of current medications is required but no specific mention has been made herein yet; any known polypharmacy needs assessment and documentation (polypharmacy may contribute to fall risks).   
+Is the patient currently on multiple medications? ***NEEDS TO BE COLLECTED***  
+Mind: Geriatric Depression Scale result indicates severe depression at 15/15, suggesting a need for further psychological evaluation and possible intervention. SLUMS Test results are not mentioned; these could provide additional insight into the patient's cognitive status which may impact overall treatment strategy (***NEEDS TO BE COLLECTED***).   
+Multicomplexity: The presence of diabetes, multiple falls with recent onset headache worsening symptoms suggest a need for thorough intracranial pathology evaluation. Potential complications could be related to her chronic condition (diabetes) or fall-related injuries which might require multi-disciplinary approach and possibly specialist referrals depending upon ED findings, treatment plan complexity increases due to the patient's needs for both medical/geriatric care as well psychological support.  
+
+ASSESSMENT AND PLAN: 
+Based on presented symptoms of a worsening headache following multiple falls and personal history of diabetes with unspecified duration, it is recommended that the patient should visit an Emergency Department (ED) for immediate evaluation to rule out intracranial pathology. The presence of severe depression as per GDS score may also need management in conjunction with other geriatric assessments and interventions needed hereafter upon ED's findings/recommendations. Additional tests, such as imaging studies (CT scan or MRI), blood work including glucose levels, potential referral to specialist physicians like neurologists for headache management, a geriatric psychologist for depression treatment should be considered based on ED's feedback and findings. Polypharmacy needs assessment as well if there is current usage of multiple medications; this could contribute further risk factors related to her falls (***NEEDS TO BE COLLECTED***) or overall health status, which will require an update in the treatment plan post-assessment by ED and/or relevant specialists."}

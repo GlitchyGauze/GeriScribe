@@ -1,0 +1,60 @@
+content="**HPI (History of Present Illness)**
+
+Mrs. Alice Wonderland, an 84-year-old female, presents to the emergency department complaining of a headache. She reports that she has been experiencing worsening symptoms over the past three days prior to the onset of her current headache.
+
+Medical History:
+
+* Diabetes: Managed with [insert medication regimen]
+* Multiple falls in the past
+* Recent fall 3 days ago, which led to her current presentation
+
+Social History:
+
+* No history of smoking or tobacco use
+
+Family History:
+
+* None noted
+
+Medications:
+
+* Currently taking [insert list of medications, including any supplements]
+
+Vital Signs:
+
+* Blood pressure: [insert BP]
+* Pulse: [insert pulse]
+* Respiratory rate: [insert respiratory rate]
+* Oxygen saturation: [insert oxygen saturation]
+* Temperature: [insert temperature]
+
+Physical Examination:
+
+* The patient is alert and oriented to time, place, and person.
+***NEEDS TO BE COLLECTED***: Review of medications for potential interactions or side effects.
+
+COMPREHENSIVE GERIATRICS ASSESSMENT
+
+MATTERS MOST:
+The matter most concerning this patient is the recent fall 3 days ago, which may be indicative of an underlying condition that needs to be addressed.
+
+MEDICATIONS:
+Mrs. Wonderland is currently taking [insert list of medications]. She has a history of diabetes, and it's essential to review her medication regimen for potential interactions or side effects, particularly considering her recent fall. We should also consider adjusting her medication regimen to minimize the risk of falls.
+
+MIND:
+Mrs. Wonderland scores 15/15 on the Geriatrics Depression Scale (GDS), indicating mild depression. Her Saint Louis University Mental Status Examination (SLUMS) score is not available for interpretation due to lack of information, but given her GDS score, it's essential to consider neurocognitive issues.
+
+MOBILITY:
+Mrs. Wonderland has a history of multiple falls and recently experienced another fall 3 days ago. This suggests a high risk of falls, which may be related to her mobility or gait. We should assess her mobility further and provide recommendations for assistive devices or home safety modifications to reduce the risk of future falls.
+
+MULTICOMPLEXITY:
+This patient has multiple complex medical conditions, including diabetes and a history of falls, which suggests socioeconomic challenges that affect her care. Her recent fall highlights the need for careful assessment and management to prevent further complications.
+
+Recommendations:
+
+* Order imaging studies (e.g., CT or MRI) to rule out intracranial pathology as the cause of her headache.
+* Consider referring Mrs. Wonderland to a geriatrician or a specialized rehabilitation service to address her falls and overall care needs.
+* Review and adjust her medication regimen to minimize the risk of falls and other complications.
+* Provide recommendations for assistive devices or home safety modifications to reduce the risk of future falls.
+
+Please note that this is an incomplete assessment, and further information is needed to fully evaluate Mrs. Wonderland's condition." additional_kwargs={} response_metadata={'model': 'llama3.2', 'created_at': '2025-05-06T00:34:56.918935Z', 'done': True, 'done_reason': 'stop', 'total_duration': 18019496250, 'load_duration': 36982125, 'prompt_eval_count': 439, 'prompt_eval_duration': 1082221084, 'eval_count': 613, 'eval_duration': 16899268166, 'message': Message(role='assistant', content='', images=None, tool_calls=None)} id='run--ff1487ff-52bc-419e-81d8-65fed94d89fc-0' usage_metadata={'input_tokens': 439, 'output_tokens': 613, 'total_tokens': 1052}

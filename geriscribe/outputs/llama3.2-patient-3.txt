@@ -1,0 +1,34 @@
+content="Here is the completed HPI and Comprehensive Geriatrics Assessment:
+
+**HPI (History of Present Illness)**
+
+Patient's chief complaint is chronic hip pain, which has resulted in multiple hospitalizations due to falls. The patient also requests medication refills for their current pain medications.
+
+**COMPREHENSIVE GERIATRICS ASSESSMENT**
+
+MATTERS MOST: **Patient's safety and fall prevention are the top priority. Multiple hospitalizations for falls indicate a need for improved pain control and fall risk assessment and mitigation strategies.**
+
+MEDICATIONS:
+
+The patient is currently taking tramadol, SSRI (not specified), and possibly other medications not documented. Due to the high risk of serotonin syndrome with concurrent use of SSRIs and tramadol, I recommend discontinuing tramadol. The patient's medication refills are managed by multiple prescribers, which can lead to confusion and potential gaps in care. It is essential to establish a single point of contact for pain management through a pain clinic. **NEEDS TO BE COLLECTED**: Information on the specific medications the patient is taking, including dosages and frequencies.
+
+MIND:
+
+The patient's Geriatrics Depression Scale (GDS) score is normal (score: [insert score]), indicating no current depressive symptoms. However, it is essential to regularly screen for depression in older adults due to their increased risk of developing depressive disorders. The patient's Saint Louis University Mental Status Examination (SLUMS) score is also normal (score: [insert score]), suggesting no significant cognitive deficits.
+
+MOBILITY:
+
+The patient uses a wheelchair and has multiple falls, resulting in hospitalizations. This indicates a need for improved mobility assessments and fall risk mitigation strategies, such as installing handrails, non-slip mats, and providing assistive devices like canes or walkers. The patient is not interested in physical therapy (PT), which may be contributing to their decreased mobility.
+
+MULTICOMPLEXITY:
+
+The patient has multiple chronic conditions, including osteoarthritis, chronic hip pain, and falls. This complexity requires careful management of medications, regular monitoring for potential complications, and a comprehensive approach to fall prevention and management. **NEEDS TO BE COLLECTED**: Information on the patient's social support system, including family members, caregivers, or other resources that may be available to assist with daily living activities.
+
+Additional recommendations:
+
+* Establish a pain clinic as a single point of contact for pain management
+* Discontinue tramadol due to increased risk of serotonin syndrome when used concurrently with SSRIs
+* Review the patient's medication regimen to minimize potential interactions and optimize pain control
+* Develop a comprehensive fall prevention plan, including installing handrails, non-slip mats, and providing assistive devices
+* Consider regular screening for depression to identify potential mental health concerns
+* Explore options for improving mobility, such as physical therapy or other forms of exercise, to help the patient regain independence." additional_kwargs={} response_metadata={'model': 'llama3.2', 'created_at': '2025-05-06T00:37:30.873871Z', 'done': True, 'done_reason': 'stop', 'total_duration': 13839181708, 'load_duration': 18371333, 'prompt_eval_count': 498, 'prompt_eval_duration': 345448959, 'eval_count': 591, 'eval_duration': 13474769208, 'message': Message(role='assistant', content='', images=None, tool_calls=None)} id='run--87ccc6d4-e372-42a5-a896-c431503b5c89-0' usage_metadata={'input_tokens': 498, 'output_tokens': 591, 'total_tokens': 1089}

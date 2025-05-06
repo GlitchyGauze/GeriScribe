@@ -1,0 +1,32 @@
+content="**HPI**
+
+Patient: Alice Wonderland, 84-year-old female
+Chief Complaint: Headache
+History of Present Illness: The patient reports a worsening headache over the past 3 days, which worsened before her current visit. She describes the pain as a dull ache and notes that she has been getting worse. She also mentions that she recently had a fall prior to the onset of this headache.
+
+Medical History: 
+- Diabetes
+- Multiple falls
+
+**COMPREHENSIVE GERIATRICS ASSESSMENT**
+
+MATTERS MOST:
+The patient's recent history of multiple falls and worsening headache suggests a potential risk for intracranial pathology, such as a subdural hematoma or stroke. Her age, cognitive decline (as suggested by her GDS score), and decreased mobility due to falls increase the importance of careful evaluation.
+
+MEDICATIONS:
+The patient is not currently taking any medications that are known to be contraindicated in geriatric patients. However, it would be important to assess all current medications, especially those related to cardiovascular disease or blood thinners, which could be relevant given her history of falls and potential for intracranial pathology.
+
+MIND:
+The patient's Geriatrics Depression Scale (GDS) score is 15/15, indicating severe depression. This finding should not be ignored, as it may be contributing to her decreased mobility, falls, and overall decline in health. Further evaluation of her mental status, including cognitive function, mood, and behavioral changes, would be necessary.
+
+MOBILITY:
+The patient has a significant history of multiple falls, which indicates poor mobility and increased risk for further falls. It is essential to assess the use of assistive devices for walking and consider interventions to improve her mobility, such as physical therapy or exercise programs tailored to geriatric patients.
+
+MULTICOMPLEXITY:
+The patient's medical conditions are multifaceted, including diabetes, potential intracranial pathology (given her recent fall), and severe depression. Socioeconomic challenges that affect her care could include limited access to resources, social isolation, or difficulty with daily activities due to cognitive decline. Further assessment of these factors is necessary to develop a comprehensive plan for her care.
+
+***NEEDS TO BE COLLECTED***
+- Detailed history of recent falls
+- Complete list of current medications and potential interactions
+- Comprehensive physical examination, including neurological evaluation
+- Follow-up plans for addressing depression and improving mobility" additional_kwargs={} response_metadata={'model': 'llama3.2', 'created_at': '2025-05-06T00:33:25.56173Z', 'done': True, 'done_reason': 'stop', 'total_duration': 15194548042, 'load_duration': 2319082209, 'prompt_eval_count': 439, 'prompt_eval_duration': 1922354167, 'eval_count': 496, 'eval_duration': 10935982125, 'message': Message(role='assistant', content='', images=None, tool_calls=None)} id='run--c74092eb-6e4e-4e47-a977-4130e1bb3a1e-0' usage_metadata={'input_tokens': 439, 'output_tokens': 496, 'total_tokens': 935}

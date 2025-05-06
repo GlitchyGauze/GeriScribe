@@ -1,0 +1,44 @@
+{"notes": "Dennis Stockton
+95 year old male
+chronic hip pain
+osteoarthritis
+multiple falls resulting in hospitalizations
+needs medication refills
+on multiple pain medications
+never seen or evaluted by pain clinic
+requesting refills
+currently on tramadol, recommend discontinuing especially since   patient is on SSRI increasing risk of serotonin syndrome
+uses wheelchair, not interested in PT
+reviewing PDMP shows multiple refills from multiple prescribers
+advised to establish care with pain clinic
+will not refill at this time
+discussed need for better pain control
+GDS normal
+SLUMS normal", "text": "Patient Name: Dennis Stockton
+Date of Birth: ***NEEDS TO BE COLLECTED*** (As the patient is very old, you can approximate age but should still collect accurate date)
+
+Chief Complaint: Chronic hip pain due to osteoarthritis.
+History of Presenting Illness: Dennis has been experiencing increasing discomfort in his hips over several months, attributed to the progression of underlying osteoarthritis. His condition is exacerbated by multiple falls he's suffered which have led to hospitalizations for treatment and further evaluation of injuries sustained during these incidents.
+Personal Medical History: Osteoarthritis in various joints, including hips; history of chronic pain management issues with past medications leading up to the present situation. No known drug allergies or adverse reactions have been documented aside from his ongoing condition and current treatments for hip osteoarthritis.
+Surgical History: ***NEEDS TO BE COLLECTED*** (This is essential as it may provide insights into past interventions that could influence treatment options)
+Social History: Dennis lives alone since the passing of his spouse 5 years ago and has limited mobility, using a wheelchair for most daily activities. He denies any history of substance abuse but admits to difficulty managing pain with current medications leading him often seek refills from multiple prescribers without establishing care through one provider or specialist such as at a pain clinic which may result in polypharmacy concerns.
+Family History: ***NEEDS TO BE COLLECTED*** (A thorough family history can provide insights into genetic predispositions, especially when considering osteoarthritis and its management)
+
+COMPREHENSIVE GERIATRIC ASSESSMENT: 
+Matters Most to Patient: Dennis has expressed a high level of concern regarding the chronic nature of his hip pain that severely impacts his quality of life, as well as fear over potential for additional falls and hospitalizations. Effective communication about treatment expectations is also important due to previous difficulties in establishing consistent care with healthcare providers.
+Mobility: Dennis has experienced multiple falls resulting in frequent hospitalization which have resulted from limited mobility caused by hip osteoarthritis, use of a wheelchair for the majority of his daily activities and he is not interested in physical therapy at this time due to pain levels making such interventions difficult.
+Medications: The patient has been on tramadol but it appears that discontinuation may be appropriate given potential risk with current SSRI medication use leading towards possible serotonin syndrome, coupled by his history of difficulties in managing a consistent treatment plan for pain control due to obtaining prescriptions from multiple sources.
+Mind: GDS (Geriatric Depression Scale) is normal suggesting no depressive symptoms; however SLUMS Test should be reviewed as it might provide additional information about his cognitive status especially considering the complexities of managing pain and medication relies on proper understanding by the patient.
+Multicomplexity: The treatment for Dennis's osteoarthritis is complicated due to chronicity, history of falls leading to hospitalizations potentially related polypharmacy issues because he seeks refills from multiple prescribers without consistent follow-up which increases risk and complicates management. 
+
+ASSESSMENT AND PLAN:
+1) Establish a comprehensive care plan with one primary healthcare provider or pain specialist to avoid the risks associated with polypharmacy (e.g., tramadol discontinuation recommended due to potential interaction with current SSRI). Coordination of this care, potentially through telehealth options given Dennis's limited mobility and transport challenges if he resides in an area where specialists are not readily accessible locally.
+2) Recommend a re-evaluation by the pain clinic for alternative or adjunctive therapies to manage chronic hip pain, possibly including nonsteroidal anti-inflammatory drugs (NSAIDs), topical treatments, acupuncture, and/0ne-toed exercises within comfort limits. The plan should also include education on the risks of polypharmacy for Dennis with close monitoring to prevent possible interactions between medications used in treatment modalities while optimizing pain management strategies tailored towards his personal medical history.
+3) Address mobility issues by involving a physical therapist who specializes in geriatrics and can work around patient's current limitations, ensuring safety for potential PT sessions or at-home exercises to improve strength and balance as tolerated without inducing further pain flare-ups. This approach would need careful consideration given Dennis\u2019s previous reluctance towards physical therapy due to the impact of his chronic hip pain on mobility, necessitating a tailored program that he feels comfortable starting with progressively building from there when able or more suitable interventions are identified in discussing treatment options.
+4) Recommend regular monitoring by primary healthcare provider for medication management and potential adjustments considering his refusal to fill prescriptions at this time, ensuring close communication between Dennis's providers regarding care plan changes as needed without compromising patient autonomy or consent in decision-making process.
+5) Assist with social support considerations such as home safety evaluations for fall prevention and exploring community resources that can provide additional assistance to maintain independence at his current level of mobility within the scope of Dennis's preferences, ensuring he remains involved in decisions about these changes respecting patient autonomy.
+6) Discuss potential psychosocial support or counseling services if needed when reviewed cognitive status from SLUMS test results to ensure comprehensive assessment and management align with his ability for self-care given complexities of pain, medication use, mobility challenges as well managing these through a trusted healthcare provider.
+7) Patient education about the importance of consistent follow-up appointments is crucial due to Dennis's history which has led him towards fragmented care and potential for polypharmacy without proper oversight by one main prescriber or specialist as part of integrated management approach, including discussing this need with patient directly.
+8) A detailed medication review that accounts for current regimen (including tramadol use), previous adverse reactions to treatments and past difficulties establishing continuous care should be conducted in an effort to prevent similar issues moving forward within the comprehensive pain management plan, potentially involving pharmacists specializing in geriatric medicine.
+9) Scheduled follow-up appointments with appropriate intervals as necessary for evaluation of treatment efficacy (either via phone or telehealth depending on Dennis's comfort and transportation options), assessment to monitor medication side effects given the recommendation against tramadol use, reassess pain management plan adjustments if needed in consultation between patient, primary healthcare provider and any specialist care providers involved.
+10) Ongoing communication with Dennis about his concerns regarding chronic pain treatment is necessary to build trust which fosters a therapeutic relationship essential for long-term success of the management plan tailored towards improving quality of life as well as maintaining patient autonomy and dignity despite complexities related with osteoarthritis, polypharmacy concerns and mobility limitations."}

@@ -1,0 +1,50 @@
+{"notes": "Dennis Stockton
+95 year old male
+chronic hip pain
+osteoarthritis
+multiple falls resulting in hospitalizations
+needs medication refills
+on multiple pain medications
+never seen or evaluted by pain clinic
+requesting refills
+currently on tramadol, recommend discontinuing especially since   patient is on SSRI increasing risk of serotonin syndrome
+uses wheelchair, not interested in PT
+reviewing PDMP shows multiple refills from multiple prescribers
+advised to establish care with pain clinic
+will not refill at this time
+discussed need for better pain control
+GDS normal
+SLUMS normal", "text": "## Geriatric Consultation Note
+
+**Patient Name:** Dennis Stockton
+**Date of Birth:**  ***NEEDS TO BE COLLECTED***
+
+**Chief Complaint:** Chronic hip pain, needs medication refills.
+
+**History of Presenting Illness:** 95-year-old male presenting for medication refill requests. Reports chronic hip pain and multiple falls resulting in hospitalizations. States he feels his current pain management is inadequate.
+
+**Personal Medical History:**  Osteoarthritis
+**Surgical History:** ***NEEDS TO BE COLLECTED***
+**Social History:**  Lives with family (specify),  limited mobility requiring wheelchair use. 
+**Family History:** ***NEEDS TO BE COLLECTED***
+    
+**COMPREHENSIVE GERIATRIC ASSESSMENT:**
+
+* **Matters Most:** Better pain control and improved quality of life.
+* **Mobility:** History of falls, currently utilizes a wheelchair, not interested in PT.
+* **Medications:** Polypharmacy, currently on tramadol which is recommended to discontinue due to increased risk of serotonin syndrome given his use of SSRI. Multiple refills from multiple prescribers evident on PDMP review. 
+* **Mind:**  Geriatric Depression Scale: Normal, SLUMS Test: Normal
+* **Multicomplexity:** Patient presents with complex pain management needs complicated by polypharmacy and limited interest in physical therapy interventions. The patient's history of falls adds another layer of complexity requiring further evaluation and management. Establishing care with a pain clinic is strongly recommended for comprehensive pain management planning.
+
+**ASSESSMENT AND PLAN:**
+
+1. **Pain Management:** Discontinuation of tramadol due to risk of serotonin syndrome when combined with SSRI.  Referred to pain clinic for comprehensive pain management evaluation and treatment plan.
+2. **Medication Review:** Thorough medication review conducted, including discussion on polypharmacy risks and potential alternatives. 
+3. **Mobility Assessment:** Assess need for further mobility interventions despite patient's reluctance towards PT. Explore alternative options like home-based exercise programs or assistive devices.
+4. **Follow Up:** Schedule follow-up appointment with primary care physician to discuss pain clinic referral progress and ongoing management plan.
+
+
+
+**Physician Signature:** ____________________________
+
+**Date:**  ____________________________"}

@@ -1,0 +1,9 @@
+{"notes": "Alice Wonderland 84 year old female
+Has headache
+history of diabetes, multiple falls
+Recent fall 3 days ago prior to onset of headache
+Has been getting worse
+Recommend she go to the ED to rule out intracranial pathology
+Her GDS is 15/15
+He has no history of smoking or tobacco use
+    ", "text": "Geriatric Consultation Note Template: Alice Wonderland, 84-year-old female with a chief complaint of headache, history of diabetes and multiple falls. Currently getting worse after a recent fall three days ago prior to the onset of headache. Recommends ED visit for intracranial pathology ruling out. GDS is 15/15, no smoking or tobacco use. The comprehensive geriatric assessment includes matters most, mobility, medications, mind, and multicomplexity. Assessment and plan include recommending an ED visit due to worsening condition after a recent fall and the need to rule out intracranial pathology. "}

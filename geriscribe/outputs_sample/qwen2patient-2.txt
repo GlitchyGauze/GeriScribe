@@ -1,0 +1,72 @@
+{"notes": "Dennis Stockton
+95 year old male
+chronic hip pain
+osteoarthritis
+multiple falls resulting in hospitalizations
+needs medication refills
+on multiple pain medications
+never seen or evaluted by pain clinic
+requesting refills
+currently on tramadol, recommend discontinuing especially since   patient is on SSRI increasing risk of serotonin syndrome
+uses wheelchair, not interested in PT
+reviewing PDMP shows multiple refills from multiple prescribers
+advised to establish care with pain clinic
+will not refill at this time
+discussed need for better pain control
+GDS normal
+SLUMS normal", "text": "Patient Name: Dennis Stockton  
+Date of Birth: ***NEEDS TO BE COLLECTED***
+
+Chief Complaint:
+95 year old male reporting chronic hip pain and multiple falls resulting in hospitalizations.
+
+History of Presenting Illness:
+- Complains of chronic hip pain, possibly related to osteoarthritis.
+- Has experienced multiple falls, leading to hospital admissions.
+- Currently managing his pain with multiple medications including tramadol, which may increase the risk when combined with SSRI medication due to serotonin syndrome. 
+- Unable or unwilling to pursue physical therapy for mobility improvement.
+- Prescribed by several different providers, showing potential for polypharmacy concerns.
+
+Personal Medical History:
+***NEEDS TO BE COLLECTED***
+
+Surgical History:
+***NEEDS TO BE COLLECTED***
+
+Social History:
+***NEEDS TO BE COLLECTED***
+
+Family History:
+***NEEDS TO BE COLLECTED***
+
+COMPREHENSIVE GERIATRIC ASSESSMENT:
+
+Matters Most:
+- Dennis is focused on managing his chronic pain and preventing further falls.
+
+Mobility:
+- Dennis has fallen multiple times, suggesting a need for mobility aid such as a wheelchair.
+- Expresses lack of interest in physical therapy to enhance mobility.
+
+Medications:
+- Currently on tramadol and an SSRI antidepressant. Risk of serotonin syndrome is high due to the combination.
+- Has been prescribed medications by various healthcare providers leading to polypharmacy concerns.
+
+Mind:
+- Geriatric Depression Scale (GDS) was conducted, showing normal results indicating no significant depression symptoms.
+- SLUMS Test (Substance Use and Mental Health Screening Tool for Older Adults) also found to be normal.
+
+Multicomplexity:
+- The complex nature of his situation includes managing pain effectively with the risk of serotonin syndrome from concurrent medication use.
+- Multiple falls and potential polypharmacy suggest challenges in healthcare management and patient safety.
+
+ASSESSMENT AND PLAN:
+
+- **Initial Assessment**: Dennis\u2019s primary concern is chronic hip pain, with secondary concerns related to mobility issues and the need for better pain control.
+- **Plan**:
+    - Discussed the risks associated with tramadol and SSRI combination usage and recommended discontinuing tramadol due to increased risk of serotonin syndrome.
+    - Advised that an established care plan with a pain management clinic could be beneficial, given his persistent pain and multiple falls. However, Dennis expressed reluctance to do so at this time.
+    - Recommended regular follow-up appointments to reassess his condition and adjust medication regimen if necessary while monitoring for potential side effects or risks related to polypharmacy.
+    - Suggested exploring alternative pain management strategies that might not carry the same risk as tramadol when used in combination with SSRI medications.
+
+This plan focuses on addressing Dennis\u2019s immediate concerns around pain management, mobility issues, and fall prevention. It also emphasizes the importance of ongoing care evaluation and potential referral to specialized pain management resources based on his evolving needs."}

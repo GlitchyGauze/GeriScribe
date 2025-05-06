@@ -1,0 +1,64 @@
+{"notes": "Bob Smith
+67 year old male
+former Army Veteran
+Currently retired
+has CAD s/p stents
+has peripheral artery disease
+continues to experience claudication
+Doppler of lower extremities shows worsening ABI
+will start on cilastazol and refer to cardiology
+dr. steppenwolf is his cardiology, advised to followup
+lives at home with wife and 2 kids
+former smoker
+former alcohol use
+used to have lung cancer but cured with immunotherapy
+has no other complaints at this time
+has no recent falls
+what matters most to him is family
+has polypharmacy
+negative for dementia
+GDS 8/15, concerning for refractory depression, refer to psych, will start on SSRI", "text": "Patient Name: Bob Smith Date of Birth:
+
+    Chief Complaint: Presenting with claudication and worsening ABI
+
+History of Presenting Illness:
+70 year old male, former Army Veteran, retired. Has a history of CAD (Coronary Artery Disease) for which he underwent stenting procedures in the past. Also diagnosed with peripheral artery disease with ongoing claudication symptoms. Doppler of lower extremities reveals deteriorating ABI (Ankle Brachial Index). Initiating treatment including cilastazol and scheduled referral to cardiology department.
+
+Personal Medical History:
+- History of CAD post-stent placement
+- Peripheral artery disease causing intermittent claudication
+
+Surgical History:
+- Coronary artery stenting procedures in the past
+
+Social History:
+- Former smoker, quit smoking 
+- Used to have lung cancer that was successfully treated with immunotherapy
+
+Family History: 
+No specific details provided.
+
+COMPREHENSIVE GERIATRIC ASSESSMENT:
+
+Matters Most:
+To his current situation, patient places significant importance on maintaining family health and wellbeing.
+
+Mobility:
+History of falls not specified. Requires further assessment given the ongoing claudication issues which may impact gait stability.
+
+Medications:
+Polypharmacy status indicated but specifics are ***NEEDS TO BE COLLECTED***
+
+Mind:
+- Geriatric Depression Scale (GDS): Scored at 8/15, indicative of potential refractory depression. Patient referred to psychological services for further evaluation and management.
+- SLUMS Test: Information not provided.
+
+Multicomplexity:
+Given his cardiac history with stents and peripheral artery disease, treatment is challenging due to the need for strict adherence to medication regimens while monitoring for side effects. Additionally, his ongoing claudication symptoms could limit mobility and require careful management to prevent further complications like falls or ischemic events.
+
+ASSESSMENT AND PLAN:
+Patient's overall care involves addressing polypharmacy issues with a focus on reducing unnecessary medications, managing cardiac conditions through cilastazol therapy, and coordinating referrals for psychological support due to concerns regarding depression. Patient education on self-management of symptoms such as claudication is essential. Coordination with cardiologist Dr. Steppenwolf ensures comprehensive management of his heart disease.
+
+Future appointments will include follow-up evaluations of his mobility, potential need for physical therapy evaluation, and reassessment of medications in coordination with Dr. Steppenwolf to optimize treatment plan. Additionally, ongoing monitoring for depression will guide the transition from psychological referrals back to primary care management once the patient's mental health status stabilizes under professional guidance.
+
+Note: Further assessments should be conducted on his mobility risks due to claudication and comprehensive medication review to address polypharmacy concerns."}

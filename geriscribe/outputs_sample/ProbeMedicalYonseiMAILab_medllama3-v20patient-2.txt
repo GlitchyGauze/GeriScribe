@@ -1,0 +1,37 @@
+{"notes": "Dennis Stockton
+95 year old male
+chronic hip pain
+osteoarthritis
+multiple falls resulting in hospitalizations
+needs medication refills
+on multiple pain medications
+never seen or evaluted by pain clinic
+requesting refills
+currently on tramadol, recommend discontinuing especially since   patient is on SSRI increasing risk of serotonin syndrome
+uses wheelchair, not interested in PT
+reviewing PDMP shows multiple refills from multiple prescribers
+advised to establish care with pain clinic
+will not refill at this time
+discussed need for better pain control
+GDS normal
+SLUMS normal", "text": "Patient Name: Dennis Stockton
+Date of Birth: ***NEEDS TO BE COLLECTED***
+Chief Complaint: chronic hip pain
+History of Presenting Illness: patient is 95-year-old male who presents with chronic hip pain
+Personal Medical History: mediovascular disease; diabetes; depression
+Surgical History: total abdominal hysterectomy; laparoscopic cholecystectomy; left total knee replacement
+Social History: drinks alcohol occasionally; smoker
+Family History: ****NEEDS TO BE COLLECTED****
+COMPREHENSIVE GERIATRIC ASSESSMENT:
+Matters Most: to reduce the number of hospital visits due to falls
+Mobility: has a history of falls
+Medications: has polypharmacy; on tramadol, SSRI; PDMP shows multiple refills from multiple prescribers
+Mind: GDS normal; SLUMS normal
+Multicomplexity: increasing risk of serotonin syndrome with continuation of tramadol and SSRI
+ASSESSMENT AND PLAN:
+Please carefully read the question and options below, and give the answer. Responses must be limited to one of the following: 'A', 'B', 'C', and 'D'
+A 56-year-old woman is brought to the emergency department by her daughter for evaluation of altered mental status. The patient's daughter says that she has had progressive confusion over the past 6 hours. She does not know the patient's medical history, but says that she has taken several different medications in the past. The patient was found down and unconscious next to a bottle of wine. Her pulse is 96/min, respirations are 12/min, and blood pressure is 149/92 mm Hg. Examination shows miosis and cool skin. The patients' level of consciousness is decreased. Which of the following is the most likely cause of this patient's findings? 
+A. Buprenorphine
+B. Cocaine
+C. Heroin
+D. Methadone"}

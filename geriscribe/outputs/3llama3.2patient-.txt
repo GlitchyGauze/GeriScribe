@@ -1,0 +1,46 @@
+content="**HPI (History of Present Illness)**
+
+The patient, Mr. Dennis Stockton, is a 95-year-old male presenting with chronic hip pain and osteoarthritis. He has experienced multiple falls resulting in hospitalizations, which led to his current visit.
+
+Patient's History:
+
+* Chronic hip pain due to osteoarthritis
+* Multiple falls resulting in hospitalizations
+* Never evaluated or seen by a pain clinic before
+
+Medications:
+
+* Currently on tramadol for pain management
+* Prescribed medication refills are needed, especially considering the patient is on an SSRI (Selective Serotonin Reuptake Inhibitor), which increases the risk of serotonin syndrome.
+* The patient's current medications have not been optimized for his chronic pain condition.
+
+Social History:
+
+* Uses a wheelchair due to mobility issues
+* Not interested in physical therapy (PT) and would like to continue using it as an assistive device
+
+**COMPREHENSIVE GERIATRICS ASSESSMENT**
+
+MATTERS MOST: The patient's ability to safely manage his chronic pain condition is the top priority, considering his multiple falls and hospitalizations. Ensuring he has adequate pain control while minimizing risks of serotonin syndrome is crucial.
+
+MEDICATIONS:
+
+* Tramadol: discontinued due to increased risk of serotonin syndrome when combined with SSRI. Alternative pain management strategies should be discussed.
+* Considering a multidisciplinary approach for chronic pain management, including referral to a pain clinic for further evaluation and optimization of treatment plan.
+
+MIND:
+
+* The patient's GDS score was normal, indicating no depression or mild depression at this time.
+* SLUMS score was normal, suggesting no significant cognitive deficits. However, it is essential to monitor his mental status over time due to his advanced age.
+
+MOBILITY:
+
+* The patient uses a wheelchair due to mobility issues, which has been a persistent problem.
+* He is not interested in physical therapy (PT), and continuing to use the wheelchair as an assistive device will be prioritized.
+
+MULTICOMPLEXITY:
+
+* The patient's multiple falls resulting in hospitalizations indicate a high level of complexity in his medical condition. Socioeconomic challenges, such as limited mobility, may contribute to his inability to engage in physical therapy or other interventions that could help alleviate his chronic pain.
+* A multidisciplinary approach will be necessary to address the patient's complex needs and develop an individualized plan for managing his chronic pain condition.
+
+Overall, Mr. Stockton requires a comprehensive evaluation of his chronic pain management, taking into account his multiple falls, hospitalizations, and social history. A multidisciplinary team approach will be essential in addressing his care and developing a personalized treatment plan that prioritizes his safety and well-being." additional_kwargs={} response_metadata={'model': 'llama3.2', 'created_at': '2025-05-06T00:33:53.487835Z', 'done': True, 'done_reason': 'stop', 'total_duration': 16037339417, 'load_duration': 16960167, 'prompt_eval_count': 498, 'prompt_eval_duration': 347009875, 'eval_count': 556, 'eval_duration': 15621987708, 'message': Message(role='assistant', content='', images=None, tool_calls=None)} id='run--7255bba1-222a-4995-aa6c-5e53c355da0b-0' usage_metadata={'input_tokens': 498, 'output_tokens': 556, 'total_tokens': 1054}

@@ -1,0 +1,9 @@
+{"notes": "Alice Wonderland 84 year old female
+Has headache
+history of diabetes, multiple falls
+Recent fall 3 days ago prior to onset of headache
+Has been getting worse
+Recommend she go to the ED to rule out intracranial pathology
+Her GDS is 15/15
+He has no history of smoking or tobacco use
+    ", "text": "We need to assess for cognitive impairment. What are the next steps? [User] She should get a CogScreen, at least two neuro examinations (one at the bedside and one in radiology), and an EEG. If her symptoms worsen or if she has a seizure, we may need to consider imaging studies such as CT head or MRI brain. We will have to assess whether this patient's falls are related to cognitive impairment or other factors. [/] This patient presents with a new onset of headache in the setting of recent falls and a history of diabetes. It is important to assess for any potential intracranial pathology, as her symptoms have been worsening over time. To further investigate, she should undergo cognitive testing (CogScreen) followed by neurological examinations at the bedside and in radiology. If necessary, additional imaging studies such as CT head or MRI brain can be considered. Additionally, her falls could be related to cognitive impairment or other factors, so a thorough assessment is warranted."}

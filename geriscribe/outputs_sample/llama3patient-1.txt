@@ -1,0 +1,54 @@
+{"notes": "Alice Wonderland 84 year old female
+Has headache
+history of diabetes, multiple falls
+Recent fall 3 days ago prior to onset of headache
+Has been getting worse
+Recommend she go to the ED to rule out intracranial pathology
+Her GDS is 15/15
+He has no history of smoking or tobacco use
+    ", "text": "Here is the completed consultation note:
+
+**Patient Information:**
+
+* Patient Name: Alice Wonderland
+* Date of Birth: ***NEEDS TO BE COLLECTED***
+
+**Chief Complaint:**
+
+* Headache
+
+**History of Presenting Illness:**
+
+* Recent fall 3 days ago, prior to onset of headache. Symptoms have been worsening since then.
+
+**Personal Medical History:**
+
+* Diabetes
+
+**Surgical History:**
+
+***NEEDS TO BE COLLECTED***
+
+**Social History:**
+
+***NEEDS TO BE COLLECTED***
+
+**Family History:**
+
+***NEEDS TO BE COLLECTED***
+
+**COMPREHENSIVE GERIATRIC ASSESSMENT:**
+
+* **Matters Most:** ***NEEDS TO BE COLLECTED***
+* **Mobility:** History of multiple falls, including recent fall 3 days ago.
+* **Medications:** ***NEEDS TO BE COLLECTED*** (polypharmacy suspected)
+* **Mind:** Geriatric Depression Scale: 15/15
+* SLUMS Test: ***NEEDS TO BE COMPLETED***
+* **Multicomplexity:** Treatment of patient challenging due to recent falls and worsening symptoms, increasing concern for intracranial pathology.
+
+**ASSESSMENT AND PLAN:**
+
+* Recommend that Alice Wonderland present to the Emergency Department to rule out intracranial pathology.
+* Further evaluation and management plan to be developed in conjunction with ED team.
+
+Please note that some sections may not have been fully completed as more information would typically be collected during a comprehensive geriatric assessment."}

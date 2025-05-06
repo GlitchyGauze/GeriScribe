@@ -1,0 +1,45 @@
+{"notes": "Bob Smith
+67 year old male
+former Army Veteran
+Currently retired
+has CAD s/p stents
+has peripheral artery disease
+continues to experience claudication
+Doppler of lower extremities shows worsening ABI
+will start on cilastazol and refer to cardiology
+dr. steppenwolf is his cardiology, advised to followup
+lives at home with wife and 2 kids
+former smoker
+former alcohol use
+used to have lung cancer but cured with immunotherapy
+has no other complaints at this time
+has no recent falls
+what matters most to him is family
+has polypharmacy
+negative for dementia
+GDS 8/15, concerning for refractory depression, refer to psych, will start on SSRI", "text": "Patient Name: Bob Smith
+Date of Birth: ***NEEDS TO BE COLLECTED***  
+
+Chief Complaint: Experiencing claudication despite stents and peripheral artery disease.  
+
+History of Presenting Illness: CAD s/p stents, ongoing symptoms with worsening ABIs as per Doppler findings; no recent changes or complaints besides chest pain during exertion which is stable since last visit.   
+
+Personal Medical History: Former Army Veteran, previous myocardial infarction and CAD s/p stents, peripheral artery disease with claudication; previously had lung cancer treated successfully via immunotherapy - now in complete remission.  
+
+Surgical History: Underwent angioplasty for coronary artery blockage as part of his past medical treatments related to CAD, no other surgeries noted at this time.   
+
+Social History: Former smoker and alcohol user; currently retired living with wife and two children in a stable home environment.  
+
+Family History: Not provided - needs collection for detailed family history including genetic predispositions to cardiovascular or other chronic conditions. 
+
+COMPREHENSIVE GERIATRIC ASSESSMENT: Patient is experiencing claudication despite having stents in place, indicating worsening of his peripheral artery disease; he also has CAD and a history with lung cancer treated successfully through immunotherapy. He currently lives at home within the context of family support but does have polypharmacy issues that warrant careful management to avoid potential drug interactions or adverse effects, particularly as they relate to his cardiovascular conditions; no recent falls are reported.  
+
+Mobility: No history of falls noted in this visit and patient expresses mobility is stable with the assistance needed from family members for any ambulation when experiencing claudication symptoms during walking or standing activities due to arterial disease, which may become a concern if there are further deteriorations.  
+
+Medications: Polypharmacy identified; currently taking multiple medications that need reassessment by the healthcare team for appropriateness and potential interactions with planned new cilastazol therapy to improve claudication symptoms, along with his ongoing cardiovascular maintenance regimen.  
+
+Mind: GDS score of 8/15 is concerning; patient expresses worries about health affecting family dynamics and future care needs as he ages which may indicate refractory depression or anxiety - referral to psychiatry for evaluation with SLUMS Test if cognitive decline becomes evident.  
+
+Multicomplexity: The treatment of this geriatric patient is challenging due to the multitude of chronic conditions and need for careful medication management, along with balancing lifestyle changes that could improve his claudication symptoms but may be difficult given past smoking habit. Considerations also include possible psychological components such as refractory depression or anxiety affecting adherence to medical advice and treatment plans.  
+
+ASSESSMENT AND PLAN: Given the ongoing vascular issues, start cilastazol for claudication after review of current medications by pharmacist; referral needed for psychiatric assessment due to concerning GDS score indicative of possible depression. Refer patient back to cardiology as per Dr. Steppenwolf's advice and ensure follow-up with primary care physician within the next 2 weeks - will also discuss lifestyle modifications, including dietary changes for vasc0tive health support if needed at psychiatric evaluation session. Regularly reassess medication regimen to address polypharmacy concerns in coordination with cardiology and pharmacist input; encourage continuance of family involvement as social determinant, ensuring patient feels supported throughout his ongoing treatment journey for both physical health conditions and potential psychological evaluations."}

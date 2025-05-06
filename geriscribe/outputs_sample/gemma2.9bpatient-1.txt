@@ -1,0 +1,46 @@
+{"notes": "Alice Wonderland 84 year old female
+Has headache
+history of diabetes, multiple falls
+Recent fall 3 days ago prior to onset of headache
+Has been getting worse
+Recommend she go to the ED to rule out intracranial pathology
+Her GDS is 15/15
+He has no history of smoking or tobacco use
+    ", "text": "## Geriatric Consultation Note
+
+**Patient Name:** Alice Wonderland
+**Date of Birth:** ***NEEDS TO BE COLLECTED***
+
+**Chief Complaint:** Headache
+
+**History of Presenting Illness:**  84 year old female presents with a headache that began 3 days ago, following a recent fall. She reports the headache has been worsening since its onset. This is concerning given her history of diabetes and multiple falls.
+
+**Personal Medical History:**
+* Diabetes
+* ***NEEDS TO BE COLLECTED - Add other pertinent medical conditions*** 
+
+**Surgical History:**  ***NEEDS TO BE COLLECTED***
+
+**Social History:**  Non-smoker, ***NEEDS TO BE COLLECTED - Add details about living situation, support system, etc.***
+
+**Family History:** ***NEEDS TO BE COLLECTED***
+
+**COMPREHENSIVE GERIATRIC ASSESSMENT:**
+**Matters Most:** ***NEEDS TO BE COLLECTED - What are the patient's goals and priorities?*** 
+**Mobility:** 
+* History of Falls: Yes, multiple falls reported in history with recent fall 3 days ago.
+**Medications:**  ***NEEDS TO BE COLLECTED - List all medications including dosage and frequency.*** 
+* Polypharmacy: ***NEEDS TO BE COLLECTED - Assess for potential drug interactions or adverse effects.*** 
+**Mind:** 
+* Geriatric Depression Scale: 15/15
+* SLUMS Test:  ***NEEDS TO BE COLLECTED***
+**Multicomplexity:**  Patient presents with a complex case due to her recent fall, headache, history of diabetes and potential polypharmacy. This requires thorough evaluation and management to rule out serious underlying conditions.
+
+**ASSESSMENT AND PLAN:** 
+
+
+Given the patient's recent fall and worsening headache, I recommend immediate referral to the Emergency Department for further evaluation and to rule out intracranial pathology.  
+***NEEDS TO BE COLLECTED - Add specific interventions or recommendations based on the assessment.***
+
+
+"}

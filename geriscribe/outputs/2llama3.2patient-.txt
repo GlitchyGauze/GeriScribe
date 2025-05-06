@@ -1,0 +1,46 @@
+content='HPI:
+
+**Patient Information:**
+
+* Name: Bob Smith
+* Age: 67 years old
+* Gender: Male
+* Marital Status: Lives with wife and 2 children at home
+* Occupation: Formerly retired
+* Service: Former Army Veteran
+* Current Medications: Not specified, but mentioned to be on polypharmacy
+
+**Chief Complaint:** No specific chief complaint was provided. However, the patient has been experiencing claudication due to peripheral artery disease (PAD) and will start cilastazol.
+
+**History of Present Illness:** The patient continues to experience symptoms of PAD and has worsening ABI as indicated by Doppler studies. He is starting cilastazol for claudication management and follows up with Dr. Steppenwolf, his cardiologist.
+
+**Past Medical History:**
+
+* CAD ( coronary artery disease) with stents placed
+* Peripheral artery disease
+* Lung cancer, treated with immunotherapy (cured)
+* Former smoker
+* Former alcohol use
+
+***NEEDS TO BE COLLECTED:*** History of current or past depression
+
+**Review of Systems:** No specific complaints were mentioned.
+
+**Social History:** Lives at home with wife and 2 children. Family is important to him.
+
+**Medications:**
+
+* Cilastazol for claudication management
+* To be added in consultation with Dr. Steppenwolf, as part of his cardiology follow-up plan
+
+COMPREHENSIVE GERIATRICS ASSESSMENT
+
+MATTERS MOST: Family is of utmost importance to this patient.
+
+MEDICATIONS: The patient is on cilastazol for claudication management and will be adding medications in consultation with Dr. Steppenwolf as part of his follow-up plan. He has polypharmacy, which needs to be reviewed and optimized.
+
+MIND: GDS score is 8/15, indicating mild depression. Further assessment and potential referral to psychiatry for SSRI treatment are warranted due to refractory symptoms.
+
+MOBILITY: The patient reports no recent falls but has worsening ABI as indicated by Doppler studies. He uses walking aids or assistive devices for mobility support.
+
+MULTICOMPLEXITY: The patient has CAD, PAD, a history of lung cancer, and is on multiple medications. His socioeconomic challenges (living with wife and children) also impact his care. Regular follow-ups with Dr. Steppenwolf and review of his complex medical regimen are essential.' additional_kwargs={} response_metadata={'model': 'llama3.2', 'created_at': '2025-05-06T00:33:37.441517Z', 'done': True, 'done_reason': 'stop', 'total_duration': 11867869042, 'load_duration': 24251792, 'prompt_eval_count': 527, 'prompt_eval_duration': 407917042, 'eval_count': 508, 'eval_duration': 11432004167, 'message': Message(role='assistant', content='', images=None, tool_calls=None)} id='run--aa3ccf53-1b9d-4a1b-8846-e2ba39193241-0' usage_metadata={'input_tokens': 527, 'output_tokens': 508, 'total_tokens': 1035}

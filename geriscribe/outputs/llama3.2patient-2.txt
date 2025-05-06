@@ -1,0 +1,68 @@
+content="**HPI**
+
+Mr. Bob Smith, a 67-year-old male former Army Veteran, presents to the clinic today. He is currently retired and lives at home with his wife and two children.
+
+Chief Complaint: Mr. Smith reports continued symptoms of claudication in his lower extremities, which have been worsening over time.
+
+Medical History:
+
+* CAD (coronary artery disease) with stents placed s/p
+* Peripheral artery disease (PAD)
+* Former smoker
+* Former alcohol use
+* Had lung cancer but was cured with immunotherapy
+* No other significant medical complaints at this time
+
+Social History:
+* Lives at home with his wife and two children
+* Currently retired
+
+Family History: Not provided
+
+Review of Systems:
+* None noted
+
+Medications:
+**Polypharmacy**: Mr. Smith is currently taking multiple medications for his CAD, PAD, and lung cancer. A review of his medication regimen reveals the following:
+\t+ Statins (e.g., atorvastatin)
+\t+ Antiplatelet agents (e.g., aspirin)
+\t+ Beta-blockers
+\t+ Calcium channel blockers
+\t+ Anticoagulants
+\t+ Immunotherapy for lung cancer
+
+Updates and Changes: Dr. Steppenwolf, his cardiology specialist, advised Mr. Smith to follow up with him regarding his worsening PAD symptoms.
+
+**COMPREHENSIVE GERIATRICS ASSESSMENT**
+
+MATTERS MOST:
+Family is of utmost importance to Mr. Smith, and maintaining a strong family bond is crucial for his well-being.
+
+MEDICATIONS:
+Mr. Smith's polypharmacy poses a risk for medication interactions, adverse effects, and unnecessary side effects. A thorough review of his medications is necessary to identify opportunities for optimization, reduction, or discontinuation.
+
+MIND:
+GDS score: 8/15
+**Concerning for refractory depression**: Mr. Smith's GDS score indicates mild to moderate symptoms of depression. Further evaluation by a psychiatrist is recommended to address this concern and explore options for antidepressant therapy.
+
+MOBILITY:
+Mr. Smith reports no recent falls, but his Doppler study shows worsening ABI (ankle-brachial index). His claudication symptoms are also progressing, indicating potential mobility issues that need attention.
+
+MULTICOMPLEXITY:
+Mr. Smith's medical conditions, including CAD, PAD, and lung cancer, present a complex picture that requires careful management to avoid unnecessary complications or interactions between his medications.
+
+**NEEDS TO BE COLLECTED**
+
+* More detailed information on Mr. Smith's medication regimen, including specific dosages and potential interactions
+* Results of further blood tests to assess his current cardiovascular and hematologic status
+* Information on Mr. Smith's mental health history, including any previous diagnoses or treatments for depression
+
+Next steps:
+Schedule follow-up appointments with Dr. Steppenwolf for his PAD management and with a psychiatrist to address his concerns about depression.
+
+Prescription: SSRI (selective serotonin reuptake inhibitor) therapy to address refractory depression.
+
+Additional recommendations:
+* Consider referring Mr. Smith to a geriatrician or a specialist in chronic disease management to optimize his overall care plan.
+* Explore opportunities for lifestyle modifications, such as smoking cessation programs and exercise routines, to improve his cardiovascular health.
+* Regular follow-up appointments with the cardiologist and psychiatrist are crucial to monitor progress and adjust treatment plans as needed." additional_kwargs={} response_metadata={'model': 'llama3.2', 'created_at': '2025-05-06T00:35:14.608578Z', 'done': True, 'done_reason': 'stop', 'total_duration': 17676825958, 'load_duration': 32554958, 'prompt_eval_count': 527, 'prompt_eval_duration': 411033083, 'eval_count': 694, 'eval_duration': 17232250625, 'message': Message(role='assistant', content='', images=None, tool_calls=None)} id='run--fac359cb-17e0-4806-a934-c0b2aff3ff2c-0' usage_metadata={'input_tokens': 527, 'output_tokens': 694, 'total_tokens': 1221}
