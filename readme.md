@@ -17,6 +17,8 @@ In short, the logic is as follows:
 
 At its current state, you can place text files into the [geriscribe/inputs](geriscribe/inputs) folder and run the geriscribe notebook. You can change which model is used in the notebook. The output will be found in the [geriscribe/outputs](geriscribe/outputs) folder, and named by the filename and the model used.
 
+Because we are using pretrained, open-source models, the prompt itself is where you can see the key features that make for a good output.
+
 ## What is all this other code?
 
 The rest of the code is from Microsoft's Gen AI stack that is used for development of AI software. You can read more about it [here](https://github.com/docker/genai-stack).
