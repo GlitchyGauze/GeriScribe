@@ -25,6 +25,10 @@ The rest of the code is from Microsoft's Gen AI stack that is used for developme
 
 The goal with this code is to replace the geriscribe notebook with other tools. For instance, update the number of modalities from which to accept input for note generation, such as pdfbot allowing for knoweldge graph generation of PDF files. The current code in the geriscribe notebook can be retooled into the bot.py to have a ChatGPT-like interface where you write your scratchpad notes and getting the same comprehensive geriatrics note as output.
 
+## Why do we need something like this when we have paid, closed-sourced solutions like Microsoft DAX Copilot?
+
+We feel there is value added to the physician and AI-based clinical support tools that are open-source, modifiable, and verifiable. Some complaints with commercial products in general are that the resultant note sounds not like the voice of the authoring clinician (i.e., not written in their style or voice). With modifiable tools, a clinician or their team can work to either modify an existing LLM, or train one from the ground up. In addition, there is little communication when updates or changes are made or even what changes are made. This can result in challenges such as emergent biases that were not present in previous version of the software, or errors in diagnosis that were previously very reliable and did not need clincian review. In short, we hope this abstract and code demonstrates potential benefit to both clinicians and AI healthcare technology if commercial tools offered open-source, modular options.
+
 ## How to Contact
 
 For questions, you can reach the first author at the poster, or email at sandhua1@uthscsa.edu
